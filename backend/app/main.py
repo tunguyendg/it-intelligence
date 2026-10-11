@@ -11,15 +11,17 @@ app = FastAPI(
 )
 
 # Cho phép React local gọi FastAPI
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
-        "http://127.0.0.1:5173"
+        "http://127.0.0.1:5173",
+        "https://it-intelligence.vercel.app",
     ],
-    allow_credentials=False,
+    allow_credentials=True,
     allow_methods=["GET", "POST"],
-    allow_headers=["Content-Type"]
+    allow_headers=["*"],
 )
 
 # Đăng ký routers
