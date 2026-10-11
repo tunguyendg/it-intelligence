@@ -1,0 +1,50 @@
+{
+  "trained_at_utc": "2026-10-11T02:48:08.533416+00:00",
+  "training_source": "Reviews.xlsx",
+  "notebook_reference": "PROJECT_02_FINAL_EVIDENCE_HUNG_STYLE.ipynb cells 27, 44-50",
+  "train_rows": 6733,
+  "test_rows": 1684,
+  "target_mapping": {
+    "Yes": 0,
+    "No": 1
+  },
+  "input_columns": [
+    "review_text",
+    "Rating",
+    "Salary & benefits",
+    "Training & learning",
+    "Management cares about me",
+    "Culture & fun",
+    "Office & workspace"
+  ],
+  "text_source_columns": [
+    "Title",
+    "What I liked",
+    "Suggestions for improvement"
+  ],
+  "versions": {
+    "python": "3.12.15",
+    "sklearn": "1.9.1",
+    "pandas": "3.0.6",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "joblib": "1.6.0"
+  },
+  "metrics": {
+    "accuracy": 0.8895486935866983,
+    "precision_No": 0.5301204819277109,
+    "recall_No": 0.8543689320388349,
+    "f1_No": 0.654275092936803,
+    "roc_auc": 0.9494659537291275,
+    "confusion_matrix": [
+      [
+        1322,
+        156
+      ],
+      [
+        30,
+        176
+      ]
+    ]
+  }
+}

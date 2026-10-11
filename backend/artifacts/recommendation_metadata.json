@@ -1,0 +1,29 @@
+{
+  "algorithm": "TF-IDF + Cosine Similarity",
+  "company_count": 478,
+  "vocabulary_size": 15435,
+  "vector_shape": [
+    478,
+    15435
+  ],
+  "similarity_shape": [
+    478,
+    478
+  ],
+  "sklearn_version": "1.9.1",
+  "profile_fields": [
+    "Company overview",
+    "Our key skills",
+    "Why you'll love working here",
+    "Company industry",
+    "Company Type",
+    "Company size",
+    "Country"
+  ],
+  "profile_weights": {
+    "Company industry": 2,
+    "Our key skills": 2
+  },
+  "source": "Overview_Companies.xlsx",
+  "notebook_reference": "PROJECT_02_FINAL_EVIDENCE_HUNG_STYLE.ipynb cells 27 and 29"
+}
