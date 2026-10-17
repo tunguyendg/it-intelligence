@@ -4,6 +4,7 @@ import {
   getCompanies,
   getSimilarCompanies,
 } from "../services/api";
+import SkillSearch from "../components/SkillSearch";
 
 function CompanyExplorer() {
   const [companies, setCompanies] = useState([]);
@@ -16,6 +17,7 @@ function CompanyExplorer() {
   const [error, setError] = useState("");
   const [showSuggestions, setShowSuggestions] = useState(false);
   const [hasSearched, setHasSearched] = useState(false);
+  const [searchMode, setSearchMode] = useState("company");
 
   useEffect(() => {
     getCompanies()
@@ -74,8 +76,12 @@ function CompanyExplorer() {
 
   return (
     <main>
-      {/* HERO SECTION */}
-      <section
+      {searchMode === "skills" ? (
+        <SkillSearch onToggleCompany={() => setSearchMode("company")} />
+      ) : (
+        <>
+          {/* HERO SECTION */}
+          <section
         style={{
           background: "var(--color-navy)",
           color: "#fff",
@@ -189,16 +195,25 @@ function CompanyExplorer() {
               onClick={handleRecommend}
               style={{
                 background: "var(--color-teal)",
-                color: "#fff",
-                border: "none",
-                borderRadius: 8,
-                padding: "15px 18px",
-                fontSize: 13,
-                fontWeight: 700,
-                flexShrink: 0,
+                color: "#fff", border: "none", borderRadius: 8,
+                padding: "15px 16px", fontSize: 13, fontWeight: 700,
+                flexShrink: 0, cursor: "pointer",
               }}
             >
-              {recommending ? "Đang phân tích..." : "Tìm tương tự"}
+              {recommending ? "Đang tìm..." : "🏢 Tìm theo công ty"}
+            </button>
+            <button
+              type="button"
+              className="company-search-button"
+              onClick={() => { setSearchMode("skills"); setShowSuggestions(false); }}
+              style={{
+                background: "#e6f5f3", color: "#0f766e",
+                border: "1px solid #99e2d5", borderRadius: 8,
+                padding: "15px 16px", fontSize: 13, fontWeight: 700,
+                flexShrink: 0, cursor: "pointer",
+              }}
+            >
+              ✨ Tìm theo kỹ năng
             </button>
 
             {/* AUTOCOMPLETE */}
@@ -408,6 +423,8 @@ function CompanyExplorer() {
           </aside>
         </div>
       </section>
+        </>
+      )}
     </main>
   );
 }

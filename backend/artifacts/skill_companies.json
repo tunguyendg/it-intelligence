@@ -1,0 +1,1928 @@
+[
+  {
+    "id": 2,
+    "name": "52 Entertainment",
+    "skills_raw": "Our Key Skills\nJava\nGames\nQA QC\nC#\nUnity\nTester",
+    "skills_normalized": "our key skills java games qa qc c# unity tester"
+  },
+  {
+    "id": 4,
+    "name": "Accenture",
+    "skills_raw": "Our Key Skills\nCloud\nLinux\nDevOps\nNetworking\nSystem Engineer\nDatabase\nWe are expert in Cloud environment and High Critical IT environment Management. Our job is make our Customer IT platforms go like clockwork.",
+    "skills_normalized": "our key skills cloud linux devops networking system engineer database we are expert in cloud environment and high critical it environment management. our job is make our customer it platforms go like clockwork."
+  },
+  {
+    "id": 5,
+    "name": "Adnovum Vietnam",
+    "skills_raw": "J2EE\nJava\nSpring\nJavaScript\nEnglish\n.NET",
+    "skills_normalized": "j2ee java spring javascript english .net"
+  },
+  {
+    "id": 6,
+    "name": "Ahamove",
+    "skills_raw": "Python\nVueJS\nNodeJS\nAngular",
+    "skills_normalized": "python vue.js node.js angular"
+  },
+  {
+    "id": 8,
+    "name": "AITS | Vietnam Airlines",
+    "skills_raw": "Our Key Skills\nJava\nASP.NET\nC#",
+    "skills_normalized": "our key skills java asp.net c#"
+  },
+  {
+    "id": 9,
+    "name": "Aletech Technology Solutions Company",
+    "skills_raw": "Java\n.NET\nPython\nJavaScript\nNodeJS\nTester",
+    "skills_normalized": "java .net python javascript node.js tester"
+  },
+  {
+    "id": 10,
+    "name": "Allexceed Việt Nam",
+    "skills_raw": "Our Key Skills\nJava\nJavaScript\n.NET\nPHP\niOS\nAndroid\nWindows Application (Java/.NET)\nWeb Application (Java/.NET/PHP)\nSmartphone Application (iOS/Android)",
+    "skills_normalized": "our key skills java javascript .net php ios android windows application (java/.net) web application (java/.net/php) smartphone application (ios/android)"
+  },
+  {
+    "id": 12,
+    "name": "Alpaca Vietnam",
+    "skills_raw": "Our main tech stack\nReactJS\nJava\n.NET\nTester\nQA QC\nDevOps\nInsurance Domain\nAgile Software Development\nEnterprise Software Architecture\nReactJS, Angular, Java, .NET\nElasticsearch\nMicroservices\nDocker / Kubernetes",
+    "skills_normalized": "our main tech stack react java .net tester qa qc devops insurance domain agile software development enterprise software architecture react, angular, java, .net elasticsearch microservices docker / kubernetes"
+  },
+  {
+    "id": 13,
+    "name": "ANDPAD VietNam Co., Ltd",
+    "skills_raw": "Golang\nQA QC\nRuby\nMySQL\nAWS\nJapanese\nAs our business continues to grow, we are looking for Talents who can join our team and develop the application in cooperation with the Product Manager. Working in the form of a Squad, a small team can quickly and consistently engage in everything from design to development, testing, and operation.\nAlso, there are a lot of opportunities to work with new languages and FWs other than the main language in an international environment.",
+    "skills_normalized": "go qa qc ruby mysql aws japanese as our business continues to grow, we are looking for talents who can join our team and develop the application in cooperation with the product manager. working in the form of a squad, a small team can quickly and consistently engage in everything from design to development, testing, and operation. also, there are a lot of opportunities to work with new languages and fws other than the main language in an international environment."
+  },
+  {
+    "id": 15,
+    "name": "ANTADA",
+    "skills_raw": "Unity\nGames\nTester\nQA QC\nTeam Leader\nProduct Manager",
+    "skills_normalized": "unity games tester qa qc team leader product manager"
+  },
+  {
+    "id": 18,
+    "name": "Aperia Solutions Vietnam Co Ltd",
+    "skills_raw": "Our Key Skills\nASP.NET\nReactJS\nAutomation Test\nEnglish\nSQL\nScrum\nASP.NET, .NET Core, Java\nReactJS, Typescript, Javascript, HTML\nAutomation Quality Control\nDatabase: SQL\nMethodologies: Agile, Scrum",
+    "skills_normalized": "our key skills asp.net react automation test english sql scrum asp.net, .net core, java react, typescript, javascript, html automation quality control database: sql methodologies: agile, scrum"
+  },
+  {
+    "id": 19,
+    "name": "Arbin Instruments",
+    "skills_raw": "C#\nC++\nPython\nSystem Engineer\nEmbedded\nSQL",
+    "skills_normalized": "c# c++ python system engineer embedded sql"
+  },
+  {
+    "id": 20,
+    "name": "ArctX Solution LLC",
+    "skills_raw": "Product Manager\nAgile",
+    "skills_normalized": "product manager agile"
+  },
+  {
+    "id": 21,
+    "name": "ARIS Vietnam",
+    "skills_raw": "Our Key Skills\nJava\nPHP\nSQL\nQA QC\nC#",
+    "skills_normalized": "our key skills java php sql qa qc c#"
+  },
+  {
+    "id": 23,
+    "name": "ARSEN Kawaijuku Tech Vietnam Co.,Ltd",
+    "skills_raw": "Data Scientist/ AI Developer\nPython\nData Analyst\nEnglish\nDatabase\nTeam Leader\nSoftware Architect\nGiới thiệu 1 số công việc tại công ty:\nLà công ty giáo dục hàng đầu Nhật Bản, hiện tại đang làm dự án cho các trường đại học Nhật Bản như: tạo Timetable setting, phát triển AI/ thuật toán để tự động hóa việc đánh giá và cài đặt độ khó của bài thi đầu vào.",
+    "skills_normalized": "data scientist/ ai developer python data analyst english database team leader software architect giới thiệu 1 số công việc tại công ty: là công ty giáo dục hàng đầu nhật bản, hiện tại đang làm dự án cho các trường đại học nhật bản như: tạo timetable setting, phát triển ai/ thuật toán để tự động hóa việc đánh giá và cài đặt độ khó của bài thi đầu vào."
+  },
+  {
+    "id": 24,
+    "name": "Asilla",
+    "skills_raw": "Our Key Skills\nPython\nC++\nC language\nAWS\nLinux",
+    "skills_normalized": "our key skills python c++ c language aws linux"
+  },
+  {
+    "id": 25,
+    "name": "Athena Studio",
+    "skills_raw": "Latest Technology We Trust\nAgile\nUnity\nCloud\nTester\nGames\nCocos2dx, Unity, HTML5 at our client side.\nGoogle Cloud and AWS are backing our infrastructure with Big Data processing and Machine Learning jobs.\nGitlab, Jira, Jenkins, Confluence... for process and workflow.",
+    "skills_normalized": "latest technology we trust agile unity cloud tester games cocos2dx, unity, html5 at our client side. google cloud and aws are backing our infrastructure with big data processing and machine learning jobs. gitlab, jira, jenkins, confluence... for process and workflow."
+  },
+  {
+    "id": 27,
+    "name": "Aventra Group",
+    "skills_raw": ".NET\nJavaScript\nReactJS\nSQL\nAngular\nHTML5",
+    "skills_normalized": ".net javascript react sql angular html5"
+  },
+  {
+    "id": 28,
+    "name": "Avian Solutions",
+    "skills_raw": "NodeJS\nAWS\nReactJS\nReact Native\nDesigner\nHTML5",
+    "skills_normalized": "node.js aws react react native designer html5"
+  },
+  {
+    "id": 29,
+    "name": "Aviron",
+    "skills_raw": "Skills We Use\nUnity\nC#\nGolang\nJavaScript\nGames\nTypeScript\nC++, C# .NET Framework Web Framework, JavaScript, HTML5, CSS3 Angular, React JS,  SQL Server, SQL Lite Android IOS Unity 2D Multi-threading Programming Network Programming Media Programming (Audio/Video, Codec) Web servers, Application servers Client/Server Model English, Golang NodeJS,",
+    "skills_normalized": "skills we use unity c# go javascript games typescript c++, c# .net framework web framework, javascript, html5, css3 angular, react js, sql server, sql lite android ios unity 2d multi-threading programming network programming media programming (audio/video, codec) web servers, application servers client/server model english, go node.js,"
+  },
+  {
+    "id": 30,
+    "name": "AVNON",
+    "skills_raw": "Angular, RxJS, Typescript, CSS, HTML\nCSS\nAngular\nHTML5\nAngular\nWe use the latest version of Angular, .NET Core, Microsoft SQL, SignalR and Azure to build large-scale, high-quality platforms for a global customer base.\nAs a front-end developer you'll work closely with our back-end team to build fast performing user interfaces which delight our customers.",
+    "skills_normalized": "angular, rxjs, typescript, css, html css angular html5 angular we use the latest version of angular, .net core, microsoft sql, signalr and azure to build large-scale, high-quality platforms for a global customer base. as a front-end developer you'll work closely with our back-end team to build fast performing user interfaces which delight our customers."
+  },
+  {
+    "id": 32,
+    "name": "AWING",
+    "skills_raw": "NoSQL",
+    "skills_normalized": "nosql"
+  },
+  {
+    "id": 33,
+    "name": "Axalize Incorporated",
+    "skills_raw": "Skills We Use\nPHP\nReactJS\n.NET\nJava\nNodeJS\nVueJS\nIn Axalize, we always try to build the best development environment for each member.\nYou can choose 1 initial stack (Front-end, Back-end) to study and participate in 1 on 1 training with a real project. After that, each member will be oriented to become a full-stack developer or become an expert in a field that you love.\nEspecially young people, we always try to let you experience in as many projects and skills as possible, so that you can really find the skill that you love the most.",
+    "skills_normalized": "skills we use php react .net java node.js vue.js in axalize, we always try to build the best development environment for each member. you can choose 1 initial stack (front-end, back-end) to study and participate in 1 on 1 training with a real project. after that, each member will be oriented to become a full-stack developer or become an expert in a field that you love. especially young people, we always try to let you experience in as many projects and skills as possible, so that you can really find the skill that you love the most."
+  },
+  {
+    "id": 35,
+    "name": "AZoom VietNam",
+    "skills_raw": "Techstack: Vuejs/Nodejs/PHP\nNodeJS\nVueJS\nJavaScript\nCSS\nPHP\nHTML5\nFrontend - VueJS\nBackend - NodeJS\nPHP\nBrSE\nBA",
+    "skills_normalized": "techstack: vue.js/node.js/php node.js vue.js javascript css php html5 frontend - vue.js backend - node.js php brse ba"
+  },
+  {
+    "id": 36,
+    "name": "AZPLAYS Co., LTD",
+    "skills_raw": "Skills We Use\nJavaScript\nNodeJS\nReactJS\nAngularJS\nMySQL\nEnglish\nCollege or Bachelor degree in IT, Computer Science or other relevant majors\nMaster skill of Javascript\nExpertise of NodeJS, ReactJS/AngularJS,  Database (MongoDB, MySQL)\nSmart with good logical thinking\nExperience in using Git, system design is a plus\nKnow-how user interface, writing css, microservice  is an advantage\nAbility to communicate in basic English is an advantage\nFast learner and eager to learn.",
+    "skills_normalized": "skills we use javascript node.js react angularjs mysql english college or bachelor degree in it, computer science or other relevant majors master skill of javascript expertise of node.js, react/angularjs, database (mongodb, mysql) smart with good logical thinking experience in using git, system design is a plus know-how user interface, writing css, microservice is an advantage ability to communicate in basic english is an advantage fast learner and eager to learn."
+  },
+  {
+    "id": 37,
+    "name": "Bacoor Vietnam",
+    "skills_raw": "Our Tech Stack\nJavaScript\nJava\nBlockchain\nNodeJS\nReactJS\nGolang",
+    "skills_normalized": "our tech stack javascript java blockchain node.js react go"
+  },
+  {
+    "id": 38,
+    "name": "BAN VIEN CORPORATION",
+    "skills_raw": "Golang\nReactJS\nEmbedded\nLinux\nJava\nEmbedded C\nOur Services & Industries\nBan Vien Corporation is a trusted technology partner that pledges a workplacewhere people have full of opportunities and favorable conditions to work – learn – grow – thrive and succeed.\nWe drive digital transformation with expertise in:\n✔ Digital Consulting\n✔ Custom Software Development\n✔ Dedicated Development Centers\n✔ Software Testing\nOur solutions empower Edutech, Fintech, Retail, Automotive, Smart IoT, and Logistics industries",
+    "skills_normalized": "go react embedded linux java embedded c our services & industries ban vien corporation is a trusted technology partner that pledges a workplacewhere people have full of opportunities and favorable conditions to work – learn – grow – thrive and succeed. we drive digital transformation with expertise in: ✔ digital consulting ✔ custom software development ✔ dedicated development centers ✔ software testing our solutions empower edutech, fintech, retail, automotive, smart iot, and logistics industries"
+  },
+  {
+    "id": 39,
+    "name": "Bảo hiểm VietinBank (VBI)",
+    "skills_raw": "Donet, C#, Mobile, Business Analytic, Tester, Oracle",
+    "skills_normalized": "donet, c#, mobile, business analytic, tester, oracle"
+  },
+  {
+    "id": 40,
+    "name": "bbv Vietnam",
+    "skills_raw": "Our Key Skills\nJava\n.NET\nAgile\nJava\nJavaScript",
+    "skills_normalized": "our key skills java .net agile java javascript"
+  },
+  {
+    "id": 44,
+    "name": "BioTuring",
+    "skills_raw": "Our Key Skills\nDevOps\nNodeJS\nC++\nGolang\nPython\nSQL",
+    "skills_normalized": "our key skills devops node.js c++ go python sql"
+  },
+  {
+    "id": 45,
+    "name": "Blue Belt Technology",
+    "skills_raw": "Our tech stack\nJava\nNodeJS\nReactJS\nAndroid\niOS\nAws, jenkin, gitlab, java, nodejs, micro service, centralized wallet, docker, reacjs, vuejs",
+    "skills_normalized": "our tech stack java node.js react android ios aws, jenkin, gitlab, java, node.js, micro service, centralized wallet, docker, reacjs, vue.js"
+  },
+  {
+    "id": 48,
+    "name": "Bolt Tech",
+    "skills_raw": "Java\nJavaScript\nReactJS\nAndroid\niOS\nTester",
+    "skills_normalized": "java javascript react android ios tester"
+  },
+  {
+    "id": 49,
+    "name": "Bookshare",
+    "skills_raw": "NodeJS\niOS\nAndroid\nAWS\nDatabase\nSoftware Architect",
+    "skills_normalized": "node.js ios android aws database software architect"
+  },
+  {
+    "id": 50,
+    "name": "Bosch Global Software Technologies Company Limited",
+    "skills_raw": "Our Key Skills\nEmbedded\nC language\nC++\nJava\n.NET\nSAP\nEmbedded Software for Automotive Applications\nEnterprise Software development using Java & .Net\nSAP Consulting",
+    "skills_normalized": "our key skills embedded c language c++ java .net sap embedded software for automotive applications enterprise software development using java & .net sap consulting"
+  },
+  {
+    "id": 51,
+    "name": "Brarista",
+    "skills_raw": "Python\nReactJS\nTypeScript",
+    "skills_normalized": "python react typescript"
+  },
+  {
+    "id": 52,
+    "name": "Breadstack Technologies Inc",
+    "skills_raw": "Our Tech Environment\nPython\nNodeJS\nReactJS\nJavaScript\nPHP\nWordpress",
+    "skills_normalized": "our tech environment python node.js react javascript php wordpress"
+  },
+  {
+    "id": 54,
+    "name": "CA ADVANCE VIETNAM",
+    "skills_raw": "Our Key Skills\nJava\nPHP\nRuby",
+    "skills_normalized": "our key skills java php ruby"
+  },
+  {
+    "id": 55,
+    "name": "Capgemini Vietnam",
+    "skills_raw": "Our Key Skills\nJava\nAngularJS\nReactJS\nAWS\niOS\nAndroid\nIDEAL CANDIDATE\nWhat we expect from you:\nHigh Level of Integrity\nProven Track Record of Success & Leadership\nGoal-Oriented & Independent\nMotivated & Self Driven\nGood Communication Skills & Professional Presence\nAbility to coach and to be coached",
+    "skills_normalized": "our key skills java angularjs react aws ios android ideal candidate what we expect from you: high level of integrity proven track record of success & leadership goal-oriented & independent motivated & self driven good communication skills & professional presence ability to coach and to be coached"
+  },
+  {
+    "id": 56,
+    "name": "CarMD",
+    "skills_raw": "Here Are Our Expertise\nASP.NET\nMVC\niOS\nAndroid\nDatabase\nAngularJS\nMicroservices: build a robust system using microservices.\nASP.NET Core (Web & API): build website and API.\nAI: a system to predictive the wrong with your vehicle and more\nGoogle Diagflow: build voice command set for use to interact with the mobile apps.\nIonic Framework, Angular: build mobile application for vehicle diagnostic.\nGit, Git Action, Jira\nRabbitMQ, Redis Cache",
+    "skills_normalized": "here are our expertise asp.net mvc ios android database angularjs microservices: build a robust system using microservices. asp.net core (web & api): build website and api. ai: a system to predictive the wrong with your vehicle and more google diagflow: build voice command set for use to interact with the mobile apps. ionic framework, angular: build mobile application for vehicle diagnostic. git, git action, jira rabbitmq, redis cache"
+  },
+  {
+    "id": 58,
+    "name": "Castalk",
+    "skills_raw": "Android\nJava\nKotlin",
+    "skills_normalized": "android java kotlin"
+  },
+  {
+    "id": 60,
+    "name": "CESA Vietnam (part of CEVA Logistic)",
+    "skills_raw": ".NET\nVueJS\nAzure\nMongoDB\nSQL\nCloud\nVueJS/ Angular\nJavascript \nProduct \nC# \nAzure Cloud \nSQL \nUX/ UI \nPowerApp \nManual Testing/ Automation Testing \nDevOps \nAgile",
+    "skills_normalized": ".net vue.js azure mongodb sql cloud vue.js/ angular javascript product c# azure cloud sql ux/ ui powerapp manual testing/ automation testing devops agile"
+  },
+  {
+    "id": 61,
+    "name": "Chotot",
+    "skills_raw": "Open source, Cloud native technologies\nReactJS\nGolang\nNodeJS\niOS\nPython\nAndroid\nWe create product using variety of open source and cloud native technologies, to name some key that we use heavily are: Kubernetes, Kafka, Elastic Search, PostgreSQL, MongoDB, TimescaleDB. We utilize both Amazon AWS and Google Cloud Platform for our infrastructure needs while do run our heavy workloads on our own on-premises infrastructure.",
+    "skills_normalized": "open source, cloud native technologies react go node.js ios python android we create product using variety of open source and cloud native technologies, to name some key that we use heavily are: kubernetes, kafka, elastic search, postgresql, mongodb, timescaledb. we utilize both amazon aws and google cloud platform for our infrastructure needs while do run our heavy workloads on our own on-premises infrastructure."
+  },
+  {
+    "id": 63,
+    "name": "Cigro Inc.",
+    "skills_raw": "Python\nSQL\nEnglish",
+    "skills_normalized": "python sql english"
+  },
+  {
+    "id": 65,
+    "name": "CJ OLIVENETWORKS VINA CO., LTD",
+    "skills_raw": "MySQL\nJava\nMagento\nOracle\n.NET\nQA QC",
+    "skills_normalized": "mysql java magento oracle .net qa qc"
+  },
+  {
+    "id": 68,
+    "name": "Cloud Technology",
+    "skills_raw": "Skills We Use frequently\nJava\nNodeJS\nReactJS\nScala\nKotlin\nGolang\n=>Java, Spring, ReactJs, JavaScript, Node.js, Scala, Golang, Kotlin, Dart, English.",
+    "skills_normalized": "skills we use frequently java node.js react scala kotlin go =>java, spring, react, javascript, node.js, scala, go, kotlin, dart, english."
+  },
+  {
+    "id": 69,
+    "name": "CNV Holdings",
+    "skills_raw": "Java\nAngular\nMySQL\n.NET\nPHP\nC#",
+    "skills_normalized": "java angular mysql .net php c#"
+  },
+  {
+    "id": 70,
+    "name": "CODE88 COMPANY LIMITED",
+    "skills_raw": "Our Key Skills\nJava\nReactJS\nSpring\nBusiness Analyst\nQA QC\nDevOps",
+    "skills_normalized": "our key skills java react spring business analyst qa qc devops"
+  },
+  {
+    "id": 71,
+    "name": "CODE LEAP",
+    "skills_raw": "TypeScript, cross-platform mobile development, Azure\nNodeJS\nEnglish\nVueJS\nXamarin\n.NET\nAWS\nWe are dedicated to using proven technologies that work but are always keen on exploring and researching new frameworks and functionalities. Technology stacks are up for debate and require that every team member brings in their knowledge and insights for open debate and sharing.",
+    "skills_normalized": "typescript, cross-platform mobile development, azure node.js english vue.js xamarin .net aws we are dedicated to using proven technologies that work but are always keen on exploring and researching new frameworks and functionalities. technology stacks are up for debate and require that every team member brings in their knowledge and insights for open debate and sharing."
+  },
+  {
+    "id": 72,
+    "name": "CodeLink",
+    "skills_raw": "React, React Native, Ruby on Rails, Node.JS\nRuby on Rails\nReactJS\nGolang\nASP.NET\nReact Native\nNodeJS\nWorking with CodeLink you’ll get to play with the industry's leading technologies, using React, React Native, Rails and Node.JS in a fully agile process. You will be touching every part of web and mobile development, from performance optimization to scaling to security and architectural design etc. The challenge will be tough but the learning experience is invaluable.",
+    "skills_normalized": "react, react native, ruby on rails, node.js ruby on rails react go asp.net react native node.js working with codelink you’ll get to play with the industry's leading technologies, using react, react native, rails and node.js in a fully agile process. you will be touching every part of web and mobile development, from performance optimization to scaling to security and architectural design etc. the challenge will be tough but the learning experience is invaluable."
+  },
+  {
+    "id": 73,
+    "name": "CoderPush",
+    "skills_raw": "JavaScript\nRuby on Rails\nPython\nTypeScript\nJava\nAWS",
+    "skills_normalized": "javascript ruby on rails python typescript java aws"
+  },
+  {
+    "id": 75,
+    "name": "Collaboration Betters The World - B.O.T",
+    "skills_raw": "𝗘𝘅𝗽𝗹𝗼𝗿𝗲 𝗢𝘂𝗿 𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗦𝗲𝗿𝘃𝗶𝗰𝗲\nOur unique 𝗕𝘂𝗶𝗹𝗱 - 𝗢𝗽𝗲𝗿𝗮𝘁𝗲 - 𝗧𝗿𝗮𝗻𝘀𝗳𝗲𝗿 (𝗕𝗢𝗧) model offers a highly scalable and cost-efficient solution to help Clients build their own engineering teams in Vietnam without outsourcing their software development.\nWe have successfully orchestrated 20+ custom software and product development teams for industry giants, including NAB (National Australia Bank), Atlassian, Ansarada, SinchMessageMedia, CIMB, Deputy, InfoTrack, JobAdder, and many others!",
+    "skills_normalized": "𝗘𝘅𝗽𝗹𝗼𝗿𝗲 𝗢𝘂𝗿 𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 our unique 𝗕𝘂𝗶𝗹𝗱 - 𝗢𝗽𝗲𝗿𝗮𝘁𝗲 - 𝗧𝗿𝗮𝗻𝘀𝗳𝗲𝗿 (𝗕𝗢𝗧) model offers a highly scalable and cost-efficient solution to help clients build their own engineering teams in vietnam without outsourcing their software development. we have successfully orchestrated 20+ custom software and product development teams for industry giants, including nab (national australia bank), atlassian, ansarada, sinchmessagemedia, cimb, deputy, infotrack, jobadder, and many others!"
+  },
+  {
+    "id": 76,
+    "name": "Collaboration Betters The World (CBTW)",
+    "skills_raw": "𝗘𝘅𝗽𝗹𝗼𝗿𝗲 𝗢𝘂𝗿 𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗦𝗲𝗿𝘃𝗶𝗰𝗲\nJava\n.NET\nReactJS\nAs a global tech and business solutions company, CBTW offers 9 service lines worldwide, spanning diverse industries.\nWith 20+ years of expertise in the APAC region, we pride ourselves on delivering scalable and cost-efficient Digital Transformation solutions through 3 key service lines:\n𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴\n𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗗𝗲𝘀𝗶𝗴𝗻 & 𝗚𝗿𝗼𝘄𝘁𝗵\n𝗕𝗮𝗻𝗸𝗶𝗻𝗴 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀",
+    "skills_normalized": "𝗘𝘅𝗽𝗹𝗼𝗿𝗲 𝗢𝘂𝗿 𝗙𝗼𝗰𝘂𝘀𝗲𝗱 𝗦𝗲𝗿𝘃𝗶𝗰𝗲 java .net react as a global tech and business solutions company, cbtw offers 9 service lines worldwide, spanning diverse industries. with 20+ years of expertise in the apac region, we pride ourselves on delivering scalable and cost-efficient digital transformation solutions through 3 key service lines: 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗣𝗿𝗼𝗱𝘂𝗰𝘁 𝗗𝗲𝘀𝗶𝗴𝗻 & 𝗚𝗿𝗼𝘄𝘁𝗵 𝗕𝗮𝗻𝗸𝗶𝗻𝗴 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀"
+  },
+  {
+    "id": 78,
+    "name": "Confluence Vietnam (HCMC)",
+    "skills_raw": "Our Key Skills\nQA QC\nDatabase\nSQL\nASP.NET\nC#\nTester",
+    "skills_normalized": "our key skills qa qc database sql asp.net c# tester"
+  },
+  {
+    "id": 82,
+    "name": "CÔNG TY CỔ PHẦN CHỨNG KHOÁN VPS",
+    "skills_raw": "Our Key Skills\nJava\n.NET\nPython\nJavaScript\nAndroid\niOS",
+    "skills_normalized": "our key skills java .net python javascript android ios"
+  },
+  {
+    "id": 87,
+    "name": "CÔNG TY CỔ PHẦN ÉN VIỆT",
+    "skills_raw": "ASP.NET\n.NET\nC#",
+    "skills_normalized": "asp.net .net c#"
+  },
+  {
+    "id": 89,
+    "name": "CÔNG TY CỔ PHẦN GOLDEN OWL SOLUTIONS",
+    "skills_raw": "Our key skills\nRuby on Rails\nPython\nPostgreSql\nJavaScript\nHTML5\nPHP",
+    "skills_normalized": "our key skills ruby on rails python postgresql javascript html5 php"
+  },
+  {
+    "id": 94,
+    "name": "Công Ty Cổ Phần Tập Đoàn Meey Land",
+    "skills_raw": "NodeJS\nGolang\n.NET\nBlockchain\nLaravel\nVueJS",
+    "skills_normalized": "node.js go .net blockchain laravel vue.js"
+  },
+  {
+    "id": 106,
+    "name": "CÔNG TY TNHH ĐẦU TƯ AI",
+    "skills_raw": "Java\nGolang\nSecurity\nEmbedded\nPython",
+    "skills_normalized": "java go security embedded python"
+  },
+  {
+    "id": 107,
+    "name": "CÔNG TY TNHH ĐẦU TƯ ĐỊA ỐC THÀNH PHỐ (CITYLAND CO., LTD)",
+    "skills_raw": "PHP\nSQL\nNetworking\nPython\nSecurity\nCloud",
+    "skills_normalized": "php sql networking python security cloud"
+  },
+  {
+    "id": 108,
+    "name": "CÔNG TY TNHH FINAN",
+    "skills_raw": "Golang\nReact Native\nReactJS\nPython\nFlutter\nSwift\nWeb Development: ReactJS, NextJS\nMobile: React Native, Flutter, Swift\nBack End: Golang, Python\nDatabase: Postgres, Mongo, ElasticSearch\nInfrastructure: RabbitMQ, Kafka, Redis, MongoDB",
+    "skills_normalized": "go react native react python flutter swift web development: react, nextjs mobile: react native, flutter, swift back end: go, python database: postgresql, mongo, elasticsearch infrastructure: rabbitmq, kafka, redis, mongodb"
+  },
+  {
+    "id": 119,
+    "name": "Công Ty TNHH Stack Tech",
+    "skills_raw": "AWS\nProduct Manager\nPython\nGolang\nTester\nFlutter",
+    "skills_normalized": "aws product manager python go tester flutter"
+  },
+  {
+    "id": 121,
+    "name": "Công ty TNHH Thankslab Việt Nam",
+    "skills_raw": "MySQL\nHTML5\nC#\nSystem Engineer\nUnity\nNodeJS\nLÝ DO VÀO NHÀ CHUNG THANKSLAB?!\n① Chế độ lương và đãi ngộ hấp dẫn dựa trên kinh nghiệm và năng lực làm việc \n② Môi trường global, đa dạng (Nhật, Hàn, Việt...)\n③ Nơi có thể lĩnh hội, nâng cao kiến thức chuyên môn với tinh thần trẻ trung và challenge với cơ hội thăng tiến cao",
+    "skills_normalized": "mysql html5 c# system engineer unity node.js lý do vào nhà chung thankslab?! ① chế độ lương và đãi ngộ hấp dẫn dựa trên kinh nghiệm và năng lực làm việc ② môi trường global, đa dạng (nhật, hàn, việt...) ③ nơi có thể lĩnh hội, nâng cao kiến thức chuyên môn với tinh thần trẻ trung và challenge với cơ hội thăng tiến cao"
+  },
+  {
+    "id": 127,
+    "name": "Công ty TNHH Web Synergies VN",
+    "skills_raw": ".NET\nReactJS\nAzure",
+    "skills_normalized": ".net react azure"
+  },
+  {
+    "id": 128,
+    "name": "Convert Digital",
+    "skills_raw": "Tester\nQA QC\nEnglish",
+    "skills_normalized": "tester qa qc english"
+  },
+  {
+    "id": 129,
+    "name": "Creative Force",
+    "skills_raw": "Our Tech stack\n.NET\nReactJS\nDevOps\nReact Native\nCloud\nAWS\nFor the backend: .NET Core, SQL Server, Entity Framework, Identity Server, RESTful APIs.\nFor the frontend, : ReactJS, React Native, Electron, NodeJS, Angular 2+, a little C#, etc.\nBesides that we also using many AWS services like EC2, S3, SQS, SES, Lambda, StepFunctions, API Gateway, Cloudfront, Route53, CloudTrail, CloudWatch, Cognito, CodeArtifact, LoadBalancer, ElasticCache (Redis), inspector, KMS, MSK, OpenSearch (Elasticsearch), SNS, Storage Gateway, Transfer Family, VPC and WAF.",
+    "skills_normalized": "our tech stack .net react devops react native cloud aws for the backend: .net core, sql server, entity framework, identity server, restful apis. for the frontend, : react, react native, electron, node.js, angular 2+, a little c#, etc. besides that we also using many aws services like ec2, s3, sqs, ses, lambda, stepfunctions, api gateway, cloudfront, route53, cloudtrail, cloudwatch, cognito, codeartifact, loadbalancer, elasticcache (redis), inspector, kms, msk, opensearch (elasticsearch), sns, storage gateway, transfer family, vpc and waf."
+  },
+  {
+    "id": 131,
+    "name": "Crossian",
+    "skills_raw": ".NET\nC#\nReactJS\nBusiness Analyst\nNextJS\nAWS",
+    "skills_normalized": ".net c# react business analyst nextjs aws"
+  },
+  {
+    "id": 134,
+    "name": "CUBICSTACK SOLUTIONS",
+    "skills_raw": "Our Key Skills\nPHP\nMySQL\nLaravel\nReactJS\nJavaScript\nDatabase\nOptimization for business & services, R&D for core technology & tools- intermediary technology- DApps (Decentralized Applications)\nRegulation: compliance, reinforcement technology specialized for individual countries- Regulation Technology (RegTech)",
+    "skills_normalized": "our key skills php mysql laravel react javascript database optimization for business & services, r&d for core technology & tools- intermediary technology- dapps (decentralized applications) regulation: compliance, reinforcement technology specialized for individual countries- regulation technology (regtech)"
+  },
+  {
+    "id": 135,
+    "name": "CyberQuote Pte Ltd",
+    "skills_raw": "Software development\nJava\nC++\nC#\nDatabase\nOOP\nTeam Leader\nMust be professional in coding skill (Java, .NET,…).\nMust be deeply knowledge and experience in system architecture design and Detail API design and System analysis.",
+    "skills_normalized": "software development java c++ c# database oop team leader must be professional in coding skill (java, .net,…). must be deeply knowledge and experience in system architecture design and detail api design and system analysis."
+  },
+  {
+    "id": 136,
+    "name": "Daoukiwoom Innovation",
+    "skills_raw": "Our Key Skills\nEnglish\nNodeJS\nReactJS\nCloud\nAgile\nJavaScript\nAlways apply the latest technology",
+    "skills_normalized": "our key skills english node.js react cloud agile javascript always apply the latest technology"
+  },
+  {
+    "id": 137,
+    "name": "Datalogic Việt Nam",
+    "skills_raw": "Our Key Skills\nC#\nJava\nTester\nC++\nEmbedded\nQA QC",
+    "skills_normalized": "our key skills c# java tester c++ embedded qa qc"
+  },
+  {
+    "id": 138,
+    "name": "DatVietVAC",
+    "skills_raw": "Golang\nDevOps\nSystem Engineer\nSecurity",
+    "skills_normalized": "go devops system engineer security"
+  },
+  {
+    "id": 139,
+    "name": "DEKON",
+    "skills_raw": "Our Key Skills\nBlockchain\nC#\n.NET\nDrupal\nPHP\nReact Native",
+    "skills_normalized": "our key skills blockchain c# .net drupal php react native"
+  },
+  {
+    "id": 140,
+    "name": "Deliveree On-Demand Logistics",
+    "skills_raw": "Ruby on Rails\nReactJS\n.NET\nProduct Manager\nAndroid\niOS",
+    "skills_normalized": "ruby on rails react .net product manager android ios"
+  },
+  {
+    "id": 146,
+    "name": "DNSE",
+    "skills_raw": "Business Analyst\nJava\nReactJS\nQA QC\nDevOps\nIT Support",
+    "skills_normalized": "business analyst java react qa qc devops it support"
+  },
+  {
+    "id": 148,
+    "name": "Dory Company Limited",
+    "skills_raw": "Skills we use\nC#\n.NET\nReactJS\nSQL\nJavaScript\nNoSQL",
+    "skills_normalized": "skills we use c# .net react sql javascript nosql"
+  },
+  {
+    "id": 150,
+    "name": "Dr.JOY",
+    "skills_raw": "SKILLS WE USE\nJava\nSwift\nKotlin\nAngular\nSpring\nQA QC\nWeb backend (Java Spring boot)\nWeb Frontend (Angularjs)\nAndroid (Java Kotlin)\nIOS (Swift)\nTester (Manual)",
+    "skills_normalized": "skills we use java swift kotlin angular spring qa qc web backend (java spring boot) web frontend (angularjs) android (java kotlin) ios (swift) tester (manual)"
+  },
+  {
+    "id": 151,
+    "name": "Droppii",
+    "skills_raw": "React Native\n.NET\nJava\nReactJS\nHTML5\nCSS",
+    "skills_normalized": "react native .net java react html5 css"
+  },
+  {
+    "id": 153,
+    "name": "East Agile",
+    "skills_raw": "Full-stack\niOS\nPython\nRuby on Rails\nAndroid\nAgile",
+    "skills_normalized": "full-stack ios python ruby on rails android agile"
+  },
+  {
+    "id": 154,
+    "name": "Eastgate Software",
+    "skills_raw": "Our Key Skills\nJava\nC++\n.NET\nAWS\nC++\n.NET Core/MVC\nJava\nNodeJS\nPython\nTensorflow/Pytorch\nReactJS/Angular/Vue.js",
+    "skills_normalized": "our key skills java c++ .net aws c++ .net core/mvc java node.js python tensorflow/pytorch react/angular/vue.js"
+  },
+  {
+    "id": 155,
+    "name": "Ebisol Vietnam",
+    "skills_raw": "Java\nSpring\nGolang\nJavaScript\nVueJS\nCSS",
+    "skills_normalized": "java spring go javascript vue.js css"
+  },
+  {
+    "id": 156,
+    "name": "EGGSPOT",
+    "skills_raw": "Javascript Technologies, NodeJS, Express, ReactJs\nNodeJS\nJavaScript\nDatabase\nCSS\nHTML5\nBusiness Analyst",
+    "skills_normalized": "javascript technologies, node.js, express, react node.js javascript database css html5 business analyst"
+  },
+  {
+    "id": 157,
+    "name": "ekino Vietnam",
+    "skills_raw": "Our Tech Stack\nJava\nPHP\nQA QC\nJavaScript\nReactJS\n.NET\nWe are specialised in Sage X3, Digital Architecture, eCommerce, Web Platforms, Mobile and Responsive Apps; Agile Development; ReactJS; AngularJS; NodeJS; Java; .Net; PHP (Symfony, WordPress, Drupal, Magento 2), User Experience, User Interface, Service Design; Cloud Services, DevOps.",
+    "skills_normalized": "our tech stack java php qa qc javascript react .net we are specialised in sage x3, digital architecture, ecommerce, web platforms, mobile and responsive apps; agile development; react; angularjs; node.js; java; .net; php (symfony, wordpress, drupal, magento 2), user experience, user interface, service design; cloud services, devops."
+  },
+  {
+    "id": 158,
+    "name": "ELCA",
+    "skills_raw": "Our Key Skills\nJava\nBusiness Analyst\n.NET\nAngularJS\nJavaScript\nSharepoint",
+    "skills_normalized": "our key skills java business analyst .net angularjs javascript sharepoint"
+  },
+  {
+    "id": 159,
+    "name": "EMCT Company Limited",
+    "skills_raw": "C#\n.NET\nASP.NET\nXamarin",
+    "skills_normalized": "c# .net asp.net xamarin"
+  },
+  {
+    "id": 160,
+    "name": "Employment Hero",
+    "skills_raw": "Our Key Skills\nReactJS\nAWS\nRuby on Rails\nPython\nReact Native\nTypeScript",
+    "skills_normalized": "our key skills react aws ruby on rails python react native typescript"
+  },
+  {
+    "id": 162,
+    "name": "Esoft Vietnam., Ltd",
+    "skills_raw": "Our Key Skills\nBusiness Analyst\nUI-UX\nTester\nEnglish\nQA QC\nProject Manager",
+    "skills_normalized": "our key skills business analyst ui-ux tester english qa qc project manager"
+  },
+  {
+    "id": 167,
+    "name": "Ewoosoft Vietnam",
+    "skills_raw": "JavaScript\nUI-UX\nReactJS\nSQL\nC++\nC#",
+    "skills_normalized": "javascript ui-ux react sql c++ c#"
+  },
+  {
+    "id": 168,
+    "name": "Extreme Việt Nam",
+    "skills_raw": "Our Key Skills\nPHP\nAndroid\niOS\nUnity\nJava\nReact Native",
+    "skills_normalized": "our key skills php android ios unity java react native"
+  },
+  {
+    "id": 169,
+    "name": "F88",
+    "skills_raw": "Our Key Skills\n.NET\nSQL\nASP.NET",
+    "skills_normalized": "our key skills .net sql asp.net"
+  },
+  {
+    "id": 170,
+    "name": "Fastboy Marketing",
+    "skills_raw": "Our Key Skills\nPHP\nJavaScript\nFlutter\nDevOps\n+ PHP, Javascript, GoLang\n+ Docker, Kubernetes, AWS",
+    "skills_normalized": "our key skills php javascript flutter devops + php, javascript, go + docker, kubernetes, aws"
+  },
+  {
+    "id": 172,
+    "name": "FE CREDIT",
+    "skills_raw": "Our Key Skills\nTester\nSQL\nBusiness Analyst\nC++\n.NET\nJava",
+    "skills_normalized": "our key skills tester sql business analyst c++ .net java"
+  },
+  {
+    "id": 174,
+    "name": "Fincorp.",
+    "skills_raw": "Senior Business Analyst, Senior Java Developer\nJava\nJavaScript\nTester\nHTML5\nCSS\nBusiness Analyst",
+    "skills_normalized": "senior business analyst, senior java developer java javascript tester html5 css business analyst"
+  },
+  {
+    "id": 175,
+    "name": "Finhay",
+    "skills_raw": "Mobile Software Engineer\nMySQL\nJava\nNodeJS\nSwift\nAndroid\nAgile",
+    "skills_normalized": "mobile software engineer mysql java node.js swift android agile"
+  },
+  {
+    "id": 176,
+    "name": "FireGroup",
+    "skills_raw": "Our Key Skills\nAWS\nGolang\nDevOps\nPHP\nReactJS\nUI-UX\nVueJS/ ReactJS\nJavascript\nProduct\nPHP\nAWS\nGolang\nUX/ UI\nManual Testing/ Automation Testing\nDevOps",
+    "skills_normalized": "our key skills aws go devops php react ui-ux vue.js/ react javascript product php aws go ux/ ui manual testing/ automation testing devops"
+  },
+  {
+    "id": 177,
+    "name": "Floating Cube Studios",
+    "skills_raw": "Our Key Skills\nRuby on Rails\n.NET\nNextJS\nXamarin\nASP.NET\nDatabase\nCurrent stack: \nReactJs, NextJS (web frontend)\n.NET, Ruby, Golang, Python, Java Spring Boot\nWPF/Xamarin/iOS/Android (native apps) or Java (our Android and kiosk apps)\nPostgreSQL and AWS\nFuture stack: Machine Learning, Mobile Application, Microservice, Kafka. Note: We're looking for software generalists, and are not particularly attached to any one programming language. \nIf you think a better language/approach is warranted, persuade us ^^",
+    "skills_normalized": "our key skills ruby on rails .net nextjs xamarin asp.net database current stack: react, nextjs (web frontend) .net, ruby, go, python, java spring boot wpf/xamarin/ios/android (native apps) or java (our android and kiosk apps) postgresql and aws future stack: machine learning, mobile application, microservice, kafka. note: we're looking for software generalists, and are not particularly attached to any one programming language. if you think a better language/approach is warranted, persuade us ^^"
+  },
+  {
+    "id": 179,
+    "name": "Floware",
+    "skills_raw": "Our Key Skills\niOS\nNodeJS\nAngularJS\nAgile\nAWS\nObjective C",
+    "skills_normalized": "our key skills ios node.js angularjs agile aws objective c"
+  },
+  {
+    "id": 180,
+    "name": "Forix",
+    "skills_raw": "Wordpress\nPHP\nMagento\nNodeJS\nPython\nReact Native\nForix is a team of problem solvers, thinkers, and doers that believes successful businesses are measured by more than just a pretty website. Our experts design, build, and optimize eCommerce websites all within one agency. We offer Maintenance Services and eCommerce Optimization for growth. Our data-driven approach takes every facet of your website into consideration, allowing us to create a strategic plan for your success.",
+    "skills_normalized": "wordpress php magento node.js python react native forix is a team of problem solvers, thinkers, and doers that believes successful businesses are measured by more than just a pretty website. our experts design, build, and optimize ecommerce websites all within one agency. we offer maintenance services and ecommerce optimization for growth. our data-driven approach takes every facet of your website into consideration, allowing us to create a strategic plan for your success."
+  },
+  {
+    "id": 182,
+    "name": "FPT Software",
+    "skills_raw": "Our Key Skills\nJava\nC++\nEnglish\nAndroid\nSQL\n.NET",
+    "skills_normalized": "our key skills java c++ english android sql .net"
+  },
+  {
+    "id": 184,
+    "name": "FuelCloud",
+    "skills_raw": "Laravel on LAMP together with Swift iOS and Android\nAndroid\niOS\nLaravel\nMySQL\nPHP",
+    "skills_normalized": "laravel on lamp together with swift ios and android android ios laravel mysql php"
+  },
+  {
+    "id": 186,
+    "name": "Fullerton Health",
+    "skills_raw": "MERN stack\nJavaScript\nNodeJS\nReactJS\nEnglish\nMySQL\nJavascript, RESTful APIs, and related technologies\nMERN stack (MongoDB/MySQL, ExpressJS, NodeJS, ReactJS)\nDatabases such as MySQL / Oracle, and non-relational databases such as MongoDB\nGit",
+    "skills_normalized": "mern stack javascript node.js react english mysql javascript, restful apis, and related technologies mern stack (mongodb/mysql, expressjs, node.js, react) databases such as mysql / oracle, and non-relational databases such as mongodb git"
+  },
+  {
+    "id": 187,
+    "name": "FWD VTC",
+    "skills_raw": "Cloud\nEnglish\nJava\nQA QC\nAWS\nAzure",
+    "skills_normalized": "cloud english java qa qc aws azure"
+  },
+  {
+    "id": 189,
+    "name": "Gameloft",
+    "skills_raw": "Our Key Skills\nManager\nC++\nEnglish\nJava\nAndroid\nProject Manager",
+    "skills_normalized": "our key skills manager c++ english java android project manager"
+  },
+  {
+    "id": 190,
+    "name": "Gearment Co.,Ltd",
+    "skills_raw": "Our Key Skills\nPHP\nReactJS\nJava\nUI-UX\nScrum\nPython",
+    "skills_normalized": "our key skills php react java ui-ux scrum python"
+  },
+  {
+    "id": 191,
+    "name": "GEEK UP",
+    "skills_raw": "Grow your expertise at GEEK Up\nNodeJS\nReactJS\nAndroid\nReactJS\nAngularJS\niOS\nOur technical capacity comes from projects that deliver product solutions in diverse industries: Banking (TPBank, ACB), Security (SSI), F&B (The Coffee House, Waitrr), Transportation (SMRT), Media & Entertainment (Viettel - Mocha)... For every product challenge, comes an optimal technology initiative. We as the engineering team will own our proposal for tech stack, technical approach and chance of learning new programming languages.",
+    "skills_normalized": "grow your expertise at geek up node.js react android react angularjs ios our technical capacity comes from projects that deliver product solutions in diverse industries: banking (tpbank, acb), security (ssi), f&b (the coffee house, waitrr), transportation (smrt), media & entertainment (viettel - mocha)... for every product challenge, comes an optimal technology initiative. we as the engineering team will own our proposal for tech stack, technical approach and chance of learning new programming languages."
+  },
+  {
+    "id": 192,
+    "name": "GemCommerce",
+    "skills_raw": "Our Skills\nRuby on Rails\nVueJS\nJQuery\nJavaScript\nNodeJS\nGolang\nTechnologies we used: \n- Golang/High performance, High availability in-house microservice platform.\n- ES6, NodeJS, VueJS, ReactJS, JQuery, HTML5/CSS3\n- Postgres, MySQL, MongoDB, Cassandra, Redis\n- RESTful/Graphql\n- RabbitMQ, gRPC, Kafka/Kinesis\n- Docker, Docker Swarm/Kubernetes\n- Amazon Web Services, Google Cloud Platform, DigitalOcean, Amazon S3, Amazon Cloudfront, Amazon Lambda...\n- Microservice architecture\n- Machine Learning/Artificial Intelligence frameworks such as Scikitlearn, Tensorflow",
+    "skills_normalized": "our skills ruby on rails vue.js jquery javascript node.js go technologies we used: - go/high performance, high availability in-house microservice platform. - es6, node.js, vue.js, react, jquery, html5/css3 - postgresql, mysql, mongodb, cassandra, redis - restful/graphql - rabbitmq, grpc, kafka/kinesis - docker, docker swarm/kubernetes - amazon web services, google cloud platform, digitalocean, amazon s3, amazon cloudfront, amazon lambda... - microservice architecture - machine learning/artificial intelligence frameworks such as scikitlearn, tensorflow"
+  },
+  {
+    "id": 194,
+    "name": "GENKI SYSTEM",
+    "skills_raw": "KEY SKILLS :\nVueJS\nGolang\nReactJS\nAWS\nFlutter\nPython\n1️⃣ Problem-Solving – Logical thinking, analysis, and effective debugging.\n2️⃣ Clean Code – Write structured, readable, and maintainable code.\n3️⃣ Version Control (Git) – Master commit, merge, and conflict resolution.\n4️⃣ Database & API – Understand SQL/NoSQL, API integration, and data optimization.\n5️⃣ Soft Skills – Communication, teamwork, self-learning, and time management.",
+    "skills_normalized": "key skills : vue.js go react aws flutter python 1️⃣ problem-solving – logical thinking, analysis, and effective debugging. 2️⃣ clean code – write structured, readable, and maintainable code. 3️⃣ version control (git) – master commit, merge, and conflict resolution. 4️⃣ database & api – understand sql/nosql, api integration, and data optimization. 5️⃣ soft skills – communication, teamwork, self-learning, and time management."
+  },
+  {
+    "id": 195,
+    "name": "GeoComply (GeoTech Hub Vietnam)",
+    "skills_raw": "Our Key Skills\nGolang\nPython\nNodeJS\nJavaScript\niOS\nAndroid",
+    "skills_normalized": "our key skills go python node.js javascript ios android"
+  },
+  {
+    "id": 196,
+    "name": "German Software Intelligence",
+    "skills_raw": "C++\nPython\nReactJS\nDatabase\nDevOps\nComputer Vision",
+    "skills_normalized": "c++ python react database devops computer vision"
+  },
+  {
+    "id": 197,
+    "name": "GFT Technologies Vietnam",
+    "skills_raw": "Spring, Kafka, Microservice Architecture, Cloud Native\nJava\nSpring\nKotlin\nDevOps\nAWS\nTechnical frameworks\nJava/Kotlin, Spring Boot, Spring Framework, Kafka, Spring Cloud, JPA, JavaScript ES6, TypeScript, React Redux, React Native.\nCloud Engineering (AWS) and Platform/DevOps\nEC2, Lambda, Postgres, S3, API Gateway, CLI, CloudFormation, SNS/SQS, Cloud Watch, Spinnaker, CircleCI, Artifactory, SonarQube, GitHub, Kubernetes, Terraform, Packer, Hashicorp Sentinel, Vault",
+    "skills_normalized": "spring, kafka, microservice architecture, cloud native java spring kotlin devops aws technical frameworks java/kotlin, spring boot, spring framework, kafka, spring cloud, jpa, javascript es6, typescript, react redux, react native. cloud engineering (aws) and platform/devops ec2, lambda, postgresql, s3, api gateway, cli, cloudformation, sns/sqs, cloud watch, spinnaker, circleci, artifactory, sonarqube, github, kubernetes, terraform, packer, hashicorp sentinel, vault"
+  },
+  {
+    "id": 198,
+    "name": "GHN",
+    "skills_raw": "Our key skills\nGolang\nMongoDB\nGCP\nReact Native\nAt GHN Express, you will be put in the best position imaginable to allow you to create your own career success. That’s why we look for hard working, fun loving, dynamic, and passionate people who are committed to adding to a company culture unlike any other. This starts from today!",
+    "skills_normalized": "our key skills go mongodb gcp react native at ghn express, you will be put in the best position imaginable to allow you to create your own career success. that’s why we look for hard working, fun loving, dynamic, and passionate people who are committed to adding to a company culture unlike any other. this starts from today!"
+  },
+  {
+    "id": 199,
+    "name": "GKIM DIGITAL",
+    "skills_raw": "Our Key Skills\nReactJS\nReact Native\nAgile\nDatabase\nPython\nEnglish\nWe are agile company, we give solution and build completed products from A to Z, we are excited with all new technologies! We always ready to fight with market...",
+    "skills_normalized": "our key skills react react native agile database python english we are agile company, we give solution and build completed products from a to z, we are excited with all new technologies! we always ready to fight with market..."
+  },
+  {
+    "id": 202,
+    "name": "Goodia Việt Nam",
+    "skills_raw": "Our Key Skills\nJava\nAndroid\nHTML5\niOS\nPHP\nPython",
+    "skills_normalized": "our key skills java android html5 ios php python"
+  },
+  {
+    "id": 203,
+    "name": "Got It",
+    "skills_raw": "Our Key Skills\nPHP\nJavaScript\nLinux\nUI-UX\nHTML5\nCSS",
+    "skills_normalized": "our key skills php javascript linux ui-ux html5 css"
+  },
+  {
+    "id": 204,
+    "name": "Grab (Vietnam) Ltd.",
+    "skills_raw": "Key Skills We Are Looking For\nGolang\niOS\nAndroid\nJavaScript\nEnglish\nDatabase\nOur Core Tech Stacks:\nBackend: Java, Kotlin, Golang, Node.js, Python, Scala\nFrontend: React.js, Angular\nMobile: Swift, Kotlin\nDevOps & Deployment: Docker, Kubernetes, Jenkins, Terraform\nCloud Services: AWS, GCP, Azure\nData & AI: Kafka, Spark, TensorFlow, PyTorch\nDatabases: MySQL, PostgreSQL, MongoDB, Cassandra, Redis\nMonitoring: Prometheus, Grafana, ELK Stack",
+    "skills_normalized": "key skills we are looking for go ios android javascript english database our core tech stacks: backend: java, kotlin, go, node.js, python, scala frontend: react, angular mobile: swift, kotlin devops & deployment: docker, kubernetes, jenkins, terraform cloud services: aws, gcp, azure data & ai: kafka, spark, tensorflow, pytorch databases: mysql, postgresql, mongodb, cassandra, redis monitoring: prometheus, grafana, elk stack"
+  },
+  {
+    "id": 207,
+    "name": "Hanatour Japan System Việt Nam",
+    "skills_raw": "Skill We Use\nJava\nMySQL\nSpring\nCSS\nHTML5\nLinux\nThiết kế và vận hành hệ thống:\nHệ thống đặt phòng khách sạn và bán vé trực tuyến cho đại lý và khách lẻ.\nHệ thống giải pháp cho công ty du lịch.\nTích hợp API với đối tác để thực hiện đặt phòng khách sạn và vé trực tuyến cho đại lý.",
+    "skills_normalized": "skill we use java mysql spring css html5 linux thiết kế và vận hành hệ thống: hệ thống đặt phòng khách sạn và bán vé trực tuyến cho đại lý và khách lẻ. hệ thống giải pháp cho công ty du lịch. tích hợp api với đối tác để thực hiện đặt phòng khách sạn và vé trực tuyến cho đại lý."
+  },
+  {
+    "id": 208,
+    "name": "HARAVAN",
+    "skills_raw": "NodeJS\nBusiness Analyst\n.NET\nUI-UX\nTester",
+    "skills_normalized": "node.js business analyst .net ui-ux tester"
+  },
+  {
+    "id": 210,
+    "name": "HCL Vietnam Company Limited",
+    "skills_raw": "Java\nGolang\nC++\nPython\nTester\nQA QC",
+    "skills_normalized": "java go c++ python tester qa qc"
+  },
+  {
+    "id": 211,
+    "name": "HDBank",
+    "skills_raw": "Our Key Skills\nJava\nSQL\nJ2EE\niOS\nAndroid",
+    "skills_normalized": "our key skills java sql j2ee ios android"
+  },
+  {
+    "id": 212,
+    "name": "HDWEBSOFT",
+    "skills_raw": "Web and mobile application\nJavaScript\nNodeJS\nPython\nPHP\nRuby on Rails\niOS\nAgile methodology",
+    "skills_normalized": "web and mobile application javascript node.js python php ruby on rails ios agile methodology"
+  },
+  {
+    "id": 214,
+    "name": "HICAS",
+    "skills_raw": "AI, CAD/BIM, Software Architect, Advanced Programming\nC++\nPython\n.NET\niOS\nAndroid\nComputer Vision\nÁp dụng phương pháp luận Agile và Khoa học dữ liệu trong việc phát triển các sản phẩm. Luôn nghiên cứu, cập nhật các công nghệ mới nhất như AI, Microservice vào lĩnh vực CAD/BIM, phần mềm kỹ thuật, phần mềm Quản lý dự án, ERP doanh nghiệp",
+    "skills_normalized": "ai, cad/bim, software architect, advanced programming c++ python .net ios android computer vision áp dụng phương pháp luận agile và khoa học dữ liệu trong việc phát triển các sản phẩm. luôn nghiên cứu, cập nhật các công nghệ mới nhất như ai, microservice vào lĩnh vực cad/bim, phần mềm kỹ thuật, phần mềm quản lý dự án, erp doanh nghiệp"
+  },
+  {
+    "id": 215,
+    "name": "Hitachi Digital Services",
+    "skills_raw": "Our Key Skills\nC++\nPython\nDevOps\nJava\nGolang\nJapanese\nDigital Experience/Product Engineering/ Application Modernization...\nIoT/ Data Management/ Analyst/ Smart Space..\nSAP/ ERP/AWS/ Oracle... (Consultancy & Implementations)\nEmbedded Application/ Firmware….\nAutomation/Functional/ system/ integration tests ....\nApplication Management / Cloud / Infrastructure Services...",
+    "skills_normalized": "our key skills c++ python devops java go japanese digital experience/product engineering/ application modernization... iot/ data management/ analyst/ smart space.. sap/ erp/aws/ oracle... (consultancy & implementations) embedded application/ firmware…. automation/functional/ system/ integration tests .... application management / cloud / infrastructure services..."
+  },
+  {
+    "id": 216,
+    "name": "HOIIO",
+    "skills_raw": "Our solutions:\nPython\nLinux\nNetworking\nSystem Engineer\nIT Support\nHTML5\nEach Hoiio App is build with an API that connects elegantly with other Hoiio Apps and supported 3rd party cloud services. \nCloud PBX\nCall Tracking\nDNC Compliance\nInternational DID\nSIP Trunk",
+    "skills_normalized": "our solutions: python linux networking system engineer it support html5 each hoiio app is build with an api that connects elegantly with other hoiio apps and supported 3rd party cloud services. cloud pbx call tracking dnc compliance international did sip trunk"
+  },
+  {
+    "id": 218,
+    "name": "HRS Group",
+    "skills_raw": "Our Main Tech Stack\n.NET\nJava\nAgile\nSQL\nCloud\nAWS",
+    "skills_normalized": "our main tech stack .net java agile sql cloud aws"
+  },
+  {
+    "id": 220,
+    "name": "Hybrid Technologies",
+    "skills_raw": "Tech Stack\nJava\nBridge Engineer\nSalesforce\nProject Manager\nPHP\nJapanese\nCRM Development & Cloud Service\nWeb/Mobile Application Development Service\nAI/Blockchain Development Service\nDigital Consulting (DX)",
+    "skills_normalized": "tech stack java bridge engineer salesforce project manager php japanese crm development & cloud service web/mobile application development service ai/blockchain development service digital consulting (dx)"
+  },
+  {
+    "id": 221,
+    "name": "i3 DVR International",
+    "skills_raw": "Skills We Use\nDatabase\nC++\nC#\nHTML5\nCSS\nReactJS\nC++, VC++, C# .NET Framework Web Framework JavaScript HTML5 CSS3 Angular, React JS,  SQL Server, SQL Lite Android IOS Unity 2D Multi threading Programming Network Programming Media Programming (Audio/Video, Codec) Web servers, Application servers Client/Server Model English",
+    "skills_normalized": "skills we use database c++ c# html5 css react c++, vc++, c# .net framework web framework javascript html5 css3 angular, react js, sql server, sql lite android ios unity 2d multi threading programming network programming media programming (audio/video, codec) web servers, application servers client/server model english"
+  },
+  {
+    "id": 222,
+    "name": "ICHIBA",
+    "skills_raw": "ASP.NET\nReactJS\n.NET\nReact Native\nScrum\nCloud",
+    "skills_normalized": "asp.net react .net react native scrum cloud"
+  },
+  {
+    "id": 223,
+    "name": "IMT Solutions",
+    "skills_raw": "Our Key Skills\nJava\n.NET\nPHP\nTester\nRuby on Rails",
+    "skills_normalized": "our key skills java .net php tester ruby on rails"
+  },
+  {
+    "id": 224,
+    "name": "Inbox4us",
+    "skills_raw": "Our Key Skills\nAndroid\niOS\nReact Native\nEnglish\nAt Inbox4us, you’ll have the chance to grow your expertise in the industry’s leading technologies, including React, React Native, and Node.js, within a fully agile development environment. You will be involved in every aspect of web and mobile development, from performance optimization and scalability to security and architectural design. The challenges will push your limits, but the opportunities for growth and learning are unparalleled",
+    "skills_normalized": "our key skills android ios react native english at inbox4us, you’ll have the chance to grow your expertise in the industry’s leading technologies, including react, react native, and node.js, within a fully agile development environment. you will be involved in every aspect of web and mobile development, from performance optimization and scalability to security and architectural design. the challenges will push your limits, but the opportunities for growth and learning are unparalleled"
+  },
+  {
+    "id": 225,
+    "name": "Inceptionlabs",
+    "skills_raw": "Our Key Skills\nJava\nMySQL",
+    "skills_normalized": "our key skills java mysql"
+  },
+  {
+    "id": 226,
+    "name": "InetKR",
+    "skills_raw": "Flutter\nAndroid\niOS\nJava\nReactJS\nSQL",
+    "skills_normalized": "flutter android ios java react sql"
+  },
+  {
+    "id": 227,
+    "name": "INFINIQ Vietnam Co.,Ltd",
+    "skills_raw": "English\nSoftware Architect\nTester\nBusiness Analyst\nSQL\nEmbedded\nINFINIQ provides logical system operation and professional quality verification services to secure global competitiveness in next-generation ICT industries such as Artificial Intelligence (AI), Virtual Reality (VR), Internet of Things (IoT), and Next-Generation ICT Industry (SW/HW).",
+    "skills_normalized": "english software architect tester business analyst sql embedded infiniq provides logical system operation and professional quality verification services to secure global competitiveness in next-generation ict industries such as artificial intelligence (ai), virtual reality (vr), internet of things (iot), and next-generation ict industry (sw/hw)."
+  },
+  {
+    "id": 228,
+    "name": "Infodation Vietnam",
+    "skills_raw": "Our Key Skills\nCSS\nJavaScript\nNodeJS\nTeam Leader\nAngularJS\nEnglish",
+    "skills_normalized": "our key skills css javascript node.js team leader angularjs english"
+  },
+  {
+    "id": 229,
+    "name": "Ingenico Vietnam",
+    "skills_raw": "Our Key Skills\nJava\nKotlin\nAndroid\nAndroid\nKotlin\nLanguage: Kotlin + Coroutines or Java, Python\nTools: Jira, Git, BitBucket, Confluence, Jenkins\nEnglish-speaking environment \nIn our competitive industry, it is an advantage for each individual software engineer to be active in researching and proposing new features, making suggestions to improve product quality and enhancing user experience\nProduct mindset is required",
+    "skills_normalized": "our key skills java kotlin android android kotlin language: kotlin + coroutines or java, python tools: jira, git, bitbucket, confluence, jenkins english-speaking environment in our competitive industry, it is an advantage for each individual software engineer to be active in researching and proposing new features, making suggestions to improve product quality and enhancing user experience product mindset is required"
+  },
+  {
+    "id": 230,
+    "name": "Innotech Vietnam Corporation",
+    "skills_raw": "Java, Mobile\nSoftware Architect\nQA QC\nJava\nAgile\nJavaScript\nEnglish\nOUR SERVICES AND SOLUTIONS\nServices\nFintech Software Development\nMobility\nWebsite Application\nJapan Outsourcing Services\nSolutions and Products\nCloud Human Resource Management (HRM)\nCustomer Loyalty Management\nAutomation Schedule For Pilot\nWarehouse Management System\nEducation Technology Solution\nEnterprise Resource Planning (ERP)\nDigital E-Commerce",
+    "skills_normalized": "java, mobile software architect qa qc java agile javascript english our services and solutions services fintech software development mobility website application japan outsourcing services solutions and products cloud human resource management (hrm) customer loyalty management automation schedule for pilot warehouse management system education technology solution enterprise resource planning (erp) digital e-commerce"
+  },
+  {
+    "id": 231,
+    "name": "Intelligent T&E (ExecutionLab)",
+    "skills_raw": "Tech stack\nReactJS\nGolang\nRuby on Rails\niOS\nAndroid\nFlutter\nAWS, ReactJS, Ruby on Rails, Golang, Kotlin, Swift, iOS Native, Android, Flutter…\nOur developers are encouraged to try any new technology on real projects!",
+    "skills_normalized": "tech stack react go ruby on rails ios android flutter aws, react, ruby on rails, go, kotlin, swift, ios native, android, flutter… our developers are encouraged to try any new technology on real projects!"
+  },
+  {
+    "id": 233,
+    "name": "Intratech Corp",
+    "skills_raw": "C#\nUnity\n.NET\nSoftware Architect\nNodeJS\nASP.NET",
+    "skills_normalized": "c# unity .net software architect node.js asp.net"
+  },
+  {
+    "id": 234,
+    "name": "Intrepid Group Asia",
+    "skills_raw": "Skills We Use\nPython\nPHP\nJava\nUI-UX\nAgile/SCRUM with good Self-managed Team\nPython/PHP/Javascript for website (w. HTML/CSS)\nMySQL, Redis, ElasticSearch, CouchBase \nC++ /Python for Data",
+    "skills_normalized": "skills we use python php java ui-ux agile/scrum with good self-managed team python/php/javascript for website (w. html/css) mysql, redis, elasticsearch, couchbase c++ /python for data"
+  },
+  {
+    "id": 236,
+    "name": "IT Consultis",
+    "skills_raw": "Technology expertise\nDrupal\nReactJS\nLaravel\nNodeJS\nMagento\nVueJS\nHTML/HTML5, CSS/CSS3, Javascript (React JS, Node JS, Vue JS), PHP ( Laravel, Drupal, Magento, Wordpress), React Native, IOS, Android, Docker, Webpack, Ansible",
+    "skills_normalized": "technology expertise drupal react laravel node.js magento vue.js html/html5, css/css3, javascript (react js, node.js, vue.js), php ( laravel, drupal, magento, wordpress), react native, ios, android, docker, webpack, ansible"
+  },
+  {
+    "id": 238,
+    "name": "IVC (ISB Vietnam)",
+    "skills_raw": "Our Key Skills\nJava\nAndroid\nSQL\nTeam Leader\nC++\n.NET",
+    "skills_normalized": "our key skills java android sql team leader c++ .net"
+  },
+  {
+    "id": 239,
+    "name": "IVS",
+    "skills_raw": "Java\n.NET\nPHP\nHTML5\nMySQL\nMVC",
+    "skills_normalized": "java .net php html5 mysql mvc"
+  },
+  {
+    "id": 240,
+    "name": "Jedi Technology",
+    "skills_raw": "Our skill\nReactJS\nReact Native\nFlutter\nPHP\nNodeJS\nPython\n1. Front end: Reactjs, Alpinejs, TailwindCSS.\n2. Mobile App: React Native, Flutter.\n3. Backend: Python, PHP, Laravel, Nodejs, Nestjs.\n4. Testing: Cypress, Vitest, Storybook.\n5. Database: MongoDB, PostgresSQL, MySQL.\n6. CMS: Wordpress, Statamic, Storyblok.\n7. Infrastructure: AWS, Vultr, Digital Ocean, Cloudflare.\n8. Management: Jira, Scrum Methodology.",
+    "skills_normalized": "our skill react react native flutter php node.js python 1. front end: react, alpinejs, tailwindcss. 2. mobile app: react native, flutter. 3. backend: python, php, laravel, node.js, nestjs. 4. testing: cypress, vitest, storybook. 5. database: mongodb, postgressql, mysql. 6. cms: wordpress, statamic, storyblok. 7. infrastructure: aws, vultr, digital ocean, cloudflare. 8. management: jira, scrum methodology."
+  },
+  {
+    "id": 241,
+    "name": "Jeisys Medical Viet Nam",
+    "skills_raw": "Our Current Tech Stack\nIT Support\nSharepoint\nSystem Admin\nERP\nDatabase\nEnglish\nMicrosoft applications and services (eg. Power Apps, PowerShell, Power BI, US Teams, Power Automation, Azure, and Power Virtual Agent).\nOdoo.\nTroubleshoot technical issues and IT support to end-users.\nImplement software updates. \nSecurity patches.\nActive Directory and Exchange.\nDevelop and implement IT policies and procedures.\nStay up-to-date with the latest trends and technologies in IT and make recommendations for improvements.",
+    "skills_normalized": "our current tech stack it support sharepoint system admin erp database english microsoft applications and services (eg. power apps, powershell, power bi, us teams, power automation, azure, and power virtual agent). odoo. troubleshoot technical issues and it support to end-users. implement software updates. security patches. active directory and exchange. develop and implement it policies and procedures. stay up-to-date with the latest trends and technologies in it and make recommendations for improvements."
+  },
+  {
+    "id": 242,
+    "name": "Jitsu Vietnam",
+    "skills_raw": "Skills We Use\nJava\nNodeJS\nGolang\nTester\nSQL\nTypeScript",
+    "skills_normalized": "skills we use java node.js go tester sql typescript"
+  },
+  {
+    "id": 243,
+    "name": "Joblogic",
+    "skills_raw": ".NET\nVueJS\nQA QC\nAzure\nEnglish\nFlutter\nOur company in Vietnam has over 100 employees, including specialists in Backend .NET, Frontend Vue.js, Mobile (Android, iOS, Flutter), UX/UI Design, QC Automation, QC Manual, Data Engineering, and Back-office roles\n Currently, we are using Microsoft AZURE, a cloud-based computing service, as the platform for Joblogic.",
+    "skills_normalized": ".net vue.js qa qc azure english flutter our company in vietnam has over 100 employees, including specialists in backend .net, frontend vue.js, mobile (android, ios, flutter), ux/ui design, qc automation, qc manual, data engineering, and back-office roles currently, we are using microsoft azure, a cloud-based computing service, as the platform for joblogic."
+  },
+  {
+    "id": 245,
+    "name": "Kambria & OhmniLabs Vietnam",
+    "skills_raw": "JavaScript\nBlockchain\nNodeJS\nJSON\nNetworking",
+    "skills_normalized": "javascript blockchain node.js json networking"
+  },
+  {
+    "id": 246,
+    "name": "Keeneo Vietnam",
+    "skills_raw": "Here are our expertise\nJava\nNodeJS\nPython\nCloud\nEnglish\nAgile\nKEENEO develops web applications of any complexity using the widest range of technologies:\nJava\nJavaScript (Node.js, React/Redux, Vue.js, Angular)\nRuby (Ruby on Rails)\nGolang\nPython\nPHP (Symfony, Laravel)\nand other programming languages.",
+    "skills_normalized": "here are our expertise java node.js python cloud english agile keeneo develops web applications of any complexity using the widest range of technologies: java javascript (node.js, react/redux, vue.js, angular) ruby (ruby on rails) go python php (symfony, laravel) and other programming languages."
+  },
+  {
+    "id": 248,
+    "name": "Kingfoodmart",
+    "skills_raw": "NodeJS\nJavaScript\nReactJS\nHTML5\nCSS\nMySQL",
+    "skills_normalized": "node.js javascript react html5 css mysql"
+  },
+  {
+    "id": 249,
+    "name": "KiotViet Corporation",
+    "skills_raw": "Our Key Skills\nPHP\n.NET\nFlutter\nGolang\nAngular\nReactJS\nWeb Development: C#, Asp.Net, .Net core, PHP, NodeJS, Golang, ReactJS, Angular\nMobile: Native -  iOS (Swift) /Android (Kotlin), Cross Platform - Flutter\nDatabase: MSSQL, MySQL\nInfrastructure: RabbitMQ, kafka, redis, mongoDB",
+    "skills_normalized": "our key skills php .net flutter go angular react web development: c#, asp.net, .net core, php, node.js, go, react, angular mobile: native - ios (swift) /android (kotlin), cross platform - flutter database: mssql, mysql infrastructure: rabbitmq, kafka, redis, mongodb"
+  },
+  {
+    "id": 250,
+    "name": "KIS Việt Nam",
+    "skills_raw": "Our Key Skills\nJava\nC#\n.NET\nHTML5\nAngularJS\nASP.NET",
+    "skills_normalized": "our key skills java c# .net html5 angularjs asp.net"
+  },
+  {
+    "id": 251,
+    "name": "K&M Holdings",
+    "skills_raw": "K&M cung cấp các hệ thống nhân lực AI...",
+    "skills_normalized": "k&m cung cấp các hệ thống nhân lực ai..."
+  },
+  {
+    "id": 252,
+    "name": "KMS Healthcare",
+    "skills_raw": "Skills We Use\nJava\n.NET\nBusiness Analyst\nReactJS\nPython\nQA QC",
+    "skills_normalized": "skills we use java .net business analyst react python qa qc"
+  },
+  {
+    "id": 253,
+    "name": "KMS Technology",
+    "skills_raw": "Java\nJavaScript\n.NET\nQA QC\nNodeJS\nDatabase",
+    "skills_normalized": "java javascript .net qa qc node.js database"
+  },
+  {
+    "id": 254,
+    "name": "Koh Young Technology Inc",
+    "skills_raw": "3D Machine Vision, Optical Inspection, Agile Methology\nC++\nC#\nSQL\nC#\nC++",
+    "skills_normalized": "3d machine vision, optical inspection, agile methology c++ c# sql c# c++"
+  },
+  {
+    "id": 255,
+    "name": "Koidra Tech",
+    "skills_raw": "Backend: GCP, Python, Django, PostgreSQL, Docker, Sentry\nFrontend: TypeScript, Vue JS, React Native\nMachine Learning: PyTorch, Pandas, Bayesian Learning, Reinforcement Learning\nIoT: C++, Arduino, Python, Docker",
+    "skills_normalized": "backend: gcp, python, django, postgresql, docker, sentry frontend: typescript, vue.js, react native machine learning: pytorch, pandas, bayesian learning, reinforcement learning iot: c++, arduino, python, docker"
+  },
+  {
+    "id": 257,
+    "name": "LARION",
+    "skills_raw": "Our Key Skills\nC++\nPython\nJava\nData Analyst\nSQL\nGolang",
+    "skills_normalized": "our key skills c++ python java data analyst sql go"
+  },
+  {
+    "id": 259,
+    "name": "LEAP",
+    "skills_raw": "Our skills\nJava\nPython\nAngularJS\nVueJS\nReactJS\nSQL",
+    "skills_normalized": "our skills java python angularjs vue.js react sql"
+  },
+  {
+    "id": 260,
+    "name": "LeapXpert",
+    "skills_raw": "Java, React, Mobile and Web Apps\nRestful, rRPC based on Micro-services architecture and integrating with banking systems. Your primary duty would be to design and develop these applications, to support mid-developers, and to coordinate with the rest of the team on various roles; QC/QA, Automation, Product Owner, Technical Writer, Pre-sales and Marketing. Thus, a commitment to collaborative problem solving, sophisticated design, TDD/BDD, and product quality is highly desired",
+    "skills_normalized": "java, react, mobile and web apps restful, rrpc based on micro-services architecture and integrating with banking systems. your primary duty would be to design and develop these applications, to support mid-developers, and to coordinate with the rest of the team on various roles; qc/qa, automation, product owner, technical writer, pre-sales and marketing. thus, a commitment to collaborative problem solving, sophisticated design, tdd/bdd, and product quality is highly desired"
+  },
+  {
+    "id": 261,
+    "name": "LG CNS Việt Nam",
+    "skills_raw": "Back-end Developer, Front-end Developer, Cloud Engineer\nJava\nVueJS\nReactJS\nMySQL\nPython\nJavaScript",
+    "skills_normalized": "back-end developer, front-end developer, cloud engineer java vue.js react mysql python javascript"
+  },
+  {
+    "id": 262,
+    "name": "LG Electronics Development Vietnam (LGEDV)",
+    "skills_raw": "Our Key Skills\nOOP\nC++\nTester\nEmbedded\nAndroid\nC++",
+    "skills_normalized": "our key skills oop c++ tester embedded android c++"
+  },
+  {
+    "id": 264,
+    "name": "LHV Software",
+    "skills_raw": "Our Key Skills\nQA QC\nJava\nPHP\nPython\nRuby on Rails\nReactJS",
+    "skills_normalized": "our key skills qa qc java php python ruby on rails react"
+  },
+  {
+    "id": 265,
+    "name": "Liberty Insurance Limited",
+    "skills_raw": "Our Key Skills\nJava\nAgile\nSQL\nOracle\nEnglish",
+    "skills_normalized": "our key skills java agile sql oracle english"
+  },
+  {
+    "id": 266,
+    "name": "LINE Vietnam",
+    "skills_raw": "Java\nReactJS\nVueJS\nJavaScript\nAgile\nCloud",
+    "skills_normalized": "java react vue.js javascript agile cloud"
+  },
+  {
+    "id": 267,
+    "name": "Live Payments",
+    "skills_raw": ".NET\nNodeJS\nAWS\nReactJS\nNextJS\nMySQL\nOur Tech Stack:\nBackend: NodeJS, NestJS, .NET 8\nFrontend: ReactJS, NextJS\nMobile: Kotlin, Coroutines, MVVM, Jetpack Components, SwiftUI, RxSwift\nDatabase: SQL Server, PostgreSQL, My SQL\nInfrastructure: AWS, Serverless, ElastiCache\nDeployment: Bitbucket Pipelines, AWS CodeBuild, Terraform\nAutomation: Serenity, Appium, CodeBuild",
+    "skills_normalized": ".net node.js aws react nextjs mysql our tech stack: backend: node.js, nestjs, .net 8 frontend: react, nextjs mobile: kotlin, coroutines, mvvm, jetpack components, swiftui, rxswift database: sql server, postgresql, my sql infrastructure: aws, serverless, elasticache deployment: bitbucket pipelines, aws codebuild, terraform automation: serenity, appium, codebuild"
+  },
+  {
+    "id": 268,
+    "name": "LizAI Vietnam",
+    "skills_raw": "Skills We Use\nNodeJS\nPython\n.NET\nAngular\nJava\nJavaScript\nMachine learning\nArtificial Intelligence\nBig Data, Privacy-Preserving, Cloud APIs Integration\nMicroservice\niOS / Android / Web app",
+    "skills_normalized": "skills we use node.js python .net angular java javascript machine learning artificial intelligence big data, privacy-preserving, cloud apis integration microservice ios / android / web app"
+  },
+  {
+    "id": 269,
+    "name": "LOVEPOP VIỆT NAM",
+    "skills_raw": "HTML5\nCSS\nJavaScript",
+    "skills_normalized": "html5 css javascript"
+  },
+  {
+    "id": 270,
+    "name": "Lumberworks Limited",
+    "skills_raw": "We build seamless, powerful systems with top technology\nNextJS\nPostgreSql\nEnglish\nAgile\nUI-UX\nProduct Owner\nWhy Join Us?\nAt Lumberworks, we value innovation and a collaborative environment where everyone can thrive. We are looking for passionate engineers who are excited to build impactful solutions and grow their careers with us. Join a team that celebrates diverse perspectives and empowers every individual to contribute their best.",
+    "skills_normalized": "we build seamless, powerful systems with top technology nextjs postgresql english agile ui-ux product owner why join us? at lumberworks, we value innovation and a collaborative environment where everyone can thrive. we are looking for passionate engineers who are excited to build impactful solutions and grow their careers with us. join a team that celebrates diverse perspectives and empowers every individual to contribute their best."
+  },
+  {
+    "id": 271,
+    "name": "Luxoft Vietnam",
+    "skills_raw": "Our key skills\nC++\nC language\nEmbedded\nJava\nTester\nQA QC",
+    "skills_normalized": "our key skills c++ c language embedded java tester qa qc"
+  },
+  {
+    "id": 272,
+    "name": "Masterise Group",
+    "skills_raw": "Flutter\niOS\nAndroid\nSecurity\nCloud\nPython",
+    "skills_normalized": "flutter ios android security cloud python"
+  },
+  {
+    "id": 273,
+    "name": "MAXIMUS SOLUTION COMPANY LIMITED",
+    "skills_raw": "Java\nAWS\nReactJS\nAngular\niOS\nAndroid\nPython\nManual / Automation Test",
+    "skills_normalized": "java aws react angular ios android python manual / automation test"
+  },
+  {
+    "id": 275,
+    "name": "MBAMC",
+    "skills_raw": "JavaScript\n.NET\nMySQL\niOS\nAndroid\nPython",
+    "skills_normalized": "javascript .net mysql ios android python"
+  },
+  {
+    "id": 276,
+    "name": "MB Bank",
+    "skills_raw": "Our Key Skills\nJava\nJavaScript\nPython\nOracle\nAngularJS\nReactJS\nMobile : React Native (Javascript), Flutter (Dart), Mini App \n\nWeb: AngularJs, ReactJs, Micro FrontEnd, HTML/Javascript/CSS \n\nBack-end: SpringBoot (Java), Golang, Hasura, GraphQL, MongoDB, Oracle, Microservice \n\nSystem & Cloud: AWS, Google Cloud, Viettel Cloud, Kubernetes, Microsoft Azure, Multi DC",
+    "skills_normalized": "our key skills java javascript python oracle angularjs react mobile : react native (javascript), flutter (dart), mini app web: angularjs, react, micro frontend, html/javascript/css back-end: springboot (java), go, hasura, graphql, mongodb, oracle, microservice system & cloud: aws, google cloud, viettel cloud, kubernetes, microsoft azure, multi dc"
+  },
+  {
+    "id": 277,
+    "name": "Mcredit - Công ty Tài chính TNHH MB Shinsei",
+    "skills_raw": "Our Key Skills\nJava\nAWS\nSpring\nReactJS\n.NET\nFlutter",
+    "skills_normalized": "our key skills java aws spring react .net flutter"
+  },
+  {
+    "id": 278,
+    "name": "MEALSUITE",
+    "skills_raw": "Ruby on Rails\nRuby\nAngular\nQA QC\nTester\nSQL",
+    "skills_normalized": "ruby on rails ruby angular qa qc tester sql"
+  },
+  {
+    "id": 279,
+    "name": "MEDRiNG Co. Ltd",
+    "skills_raw": "Our Captions And Competitive Advantage\nJava\nPostgreSql\nReactJS\nRuby on Rails\nMySQL\nAWS\nCTO is graduated from the University of Tokyo, also studied at Princeton University in USA. He is an expert in Artificial Intelligence and Data Science.\nEngineer members are from University of Tronto, University of Pennsylvania, and Vietnam National University – Hanoi University of Science. They have a wide knowledge and experience, such as frontend, backend and database in many companies.",
+    "skills_normalized": "our captions and competitive advantage java postgresql react ruby on rails mysql aws cto is graduated from the university of tokyo, also studied at princeton university in usa. he is an expert in artificial intelligence and data science. engineer members are from university of tronto, university of pennsylvania, and vietnam national university – hanoi university of science. they have a wide knowledge and experience, such as frontend, backend and database in many companies."
+  },
+  {
+    "id": 280,
+    "name": "MEGAZONE",
+    "skills_raw": "Java\nJ2EE\nCSS\nPHP\nHTML5\nSQL",
+    "skills_normalized": "java j2ee css php html5 sql"
+  },
+  {
+    "id": 282,
+    "name": "MenuCoster",
+    "skills_raw": "Our stacks\nEnglish\nTypeScript\nNodeJS\nPython\nNestJS\nNextJS",
+    "skills_normalized": "our stacks english typescript node.js python nestjs nextjs"
+  },
+  {
+    "id": 283,
+    "name": "Mercatus",
+    "skills_raw": ".NET\nASP.NET\nC#\nJavaScript\nHTML5\nAngular",
+    "skills_normalized": ".net asp.net c# javascript html5 angular"
+  },
+  {
+    "id": 285,
+    "name": "mgm technology partners Vietnam",
+    "skills_raw": "Our Tech Stack\nJava\nReactJS\nEnglish\nSpring\nJavaScript\nCloud\nCurrently, we use (back to front): PostgreSQL, Apache Solr, Hibernate, Spring, JEE, Ehcache, Hazelcast, RESTful, GraphQL, Redux, React... We build and deploy with Jenkins, Tomcat, Docker, Kubernetes, private cluster, AWS, GCP, Azure...  We code on Windows, Mac, and Linux. We are agile to the bones and very pragmatic. We do things the way they make sense and question everything - and we re-use gained experience and knowledge.",
+    "skills_normalized": "our tech stack java react english spring javascript cloud currently, we use (back to front): postgresql, apache solr, hibernate, spring, jee, ehcache, hazelcast, restful, graphql, redux, react... we build and deploy with jenkins, tomcat, docker, kubernetes, private cluster, aws, gcp, azure... we code on windows, mac, and linux. we are agile to the bones and very pragmatic. we do things the way they make sense and question everything - and we re-use gained experience and knowledge."
+  },
+  {
+    "id": 286,
+    "name": "Midu MenaQ7.,JSC",
+    "skills_raw": "NodeJS\nReactJS\nJavaScript\nSQL\nHTML5\nCSS",
+    "skills_normalized": "node.js react javascript sql html5 css"
+  },
+  {
+    "id": 288,
+    "name": "MINU Pte. Ltd",
+    "skills_raw": "Agile\nNodeJS\nSwift\nKotlin\nBusiness Analyst\nUI-UX",
+    "skills_normalized": "agile node.js swift kotlin business analyst ui-ux"
+  },
+  {
+    "id": 290,
+    "name": "Bray Leion Splash Group",
+    "skills_raw": "Our Key Skills\nMVC\n.NET\nASP.NET\nJavaScript\nEnglish\nOOP",
+    "skills_normalized": "our key skills mvc .net asp.net javascript english oop"
+  },
+  {
+    "id": 291,
+    "name": "MiTek Viet Nam",
+    "skills_raw": "BETTER TECHNOLOGY. BETTER BUILDING.\nC#\n.NET\nAngular\nQA QC\nTester\nAgile\nMiTek’s Enterprise Software systems optimize the business workflow, design, and production of homes. Our MiTek 3D Structural Modeling Software expands the capability of every 2D or 3D architectural software platform – creating an optimized, buildable, structural frame in a virtual world, before it’s built on the jobsite.",
+    "skills_normalized": "better technology. better building. c# .net angular qa qc tester agile mitek’s enterprise software systems optimize the business workflow, design, and production of homes. our mitek 3d structural modeling software expands the capability of every 2d or 3d architectural software platform – creating an optimized, buildable, structural frame in a virtual world, before it’s built on the jobsite."
+  },
+  {
+    "id": 295,
+    "name": "MONEY FORWARD VIETNAM CO.,LTD",
+    "skills_raw": "Small agile team with Ruby on Rails, Swift and Kotlin\nRuby on Rails\nPHP\nGolang\nDatabase\nSQL\nEnglish\n- Languages: Ruby on Rails, Golang, AI, JavaScript, Swift, Kotlin, Objective-C, Android Java\n- Tools: G Suite, GitHub, Slack, ChatWork, Trello, CircleCI, Docker, New Relic, Datadog\n- Platforms: Heroku, AWS, GCP\n- Methods: Agile, Scrum\n- Machines: Macbook Pro, Dell monitor",
+    "skills_normalized": "small agile team with ruby on rails, swift and kotlin ruby on rails php go database sql english - languages: ruby on rails, go, ai, javascript, swift, kotlin, objective-c, android java - tools: g suite, github, slack, chatwork, trello, circleci, docker, new relic, datadog - platforms: heroku, aws, gcp - methods: agile, scrum - machines: macbook pro, dell monitor"
+  },
+  {
+    "id": 296,
+    "name": "Motorist Pte Ltd",
+    "skills_raw": "Our Key Skills\nRuby on Rails\nAndroid\nAgile\nDatabase\nReactJS",
+    "skills_normalized": "our key skills ruby on rails android agile database react"
+  },
+  {
+    "id": 298,
+    "name": "MSB",
+    "skills_raw": "Java\nJavaScript\nReact Native\nCloud\nAWS\nReactJS",
+    "skills_normalized": "java javascript react native cloud aws react"
+  },
+  {
+    "id": 299,
+    "name": "M_Service (MoMo)",
+    "skills_raw": "MoMo Technologies:\nJava\nSpring\nDatabase\nSystem Admin\nPython\nDevOps",
+    "skills_normalized": "momo technologies: java spring database system admin python devops"
+  },
+  {
+    "id": 300,
+    "name": "NAB Innovation Centre Vietnam",
+    "skills_raw": "The latest Cloud & Micro-services technologies\nNodeJS\nReactJS\nJava\nAgile\nDevOps\nCloud\nLanguages & Frameworks\nJavaScript ES6, TypeScript, Node.js, React - Redux, Java, Spring Boot, Serverless, .NET\nCloud Services - AWS, Azure\nLambda, Postgres, S3, API Gateway, CLI, SNS/SQS, EC2, ECS, Cloud Watch, Splunk, SignalFX, AppDynamics\nDevOps\nJenkins, Artifactory, SonarQube, GitHub, CloudFormation, Kubernetes, CHEF, Hashicorp Sentinel, Packer, Terraform, Harshicorp Vault, KONG gateway, Venafi\nCollaboration\nMicrosoft Outlook, JIRA, Confluence, Microsoft Teams, ServiceNow, Rally",
+    "skills_normalized": "the latest cloud & micro-services technologies node.js react java agile devops cloud languages & frameworks javascript es6, typescript, node.js, react - redux, java, spring boot, serverless, .net cloud services - aws, azure lambda, postgresql, s3, api gateway, cli, sns/sqs, ec2, ecs, cloud watch, splunk, signalfx, appdynamics devops jenkins, artifactory, sonarqube, github, cloudformation, kubernetes, chef, hashicorp sentinel, packer, terraform, harshicorp vault, kong gateway, venafi collaboration microsoft outlook, jira, confluence, microsoft teams, servicenow, rally"
+  },
+  {
+    "id": 301,
+    "name": "Nakivo",
+    "skills_raw": "Our Key Skills\nJavaScript\nIT Support\nQA QC\nEnglish",
+    "skills_normalized": "our key skills javascript it support qa qc english"
+  },
+  {
+    "id": 302,
+    "name": "NAL Việt Nam",
+    "skills_raw": "Our Key Skills\nJava\nPHP\nJavaScript\nRuby on Rails\nJapanese\nReactJS\nCác dự án Outsourcing tiêu biểu của NAL:\nDự án IoT cho phép người dùng cuối dễ dàng tạo các trang web kinh doanh và trang web mà không cần lo lắng về cơ sở dữ liệu, ngay cả khi họ không biết mã hóa.\nDự án khảo sát hành vi người tiêu dùng ở các nước Đông Nam Á có tích hợp hệ thống thanh toán dưới dạng voucher/coupon\nHệ thống quản lý kinh doanh, trang thiết bị cho doanh nghiệp được phát triển bằng PHP/Laravel, Angular, React Native\nHệ thống banking sử dụng Java và Microservice",
+    "skills_normalized": "our key skills java php javascript ruby on rails japanese react các dự án outsourcing tiêu biểu của nal: dự án iot cho phép người dùng cuối dễ dàng tạo các trang web kinh doanh và trang web mà không cần lo lắng về cơ sở dữ liệu, ngay cả khi họ không biết mã hóa. dự án khảo sát hành vi người tiêu dùng ở các nước đông nam á có tích hợp hệ thống thanh toán dưới dạng voucher/coupon hệ thống quản lý kinh doanh, trang thiết bị cho doanh nghiệp được phát triển bằng php/laravel, angular, react native hệ thống banking sử dụng java và microservice"
+  },
+  {
+    "id": 303,
+    "name": "N.A.M",
+    "skills_raw": "Our Key Skills\nNodeJS\nVueJS\nWordpress\nPostgreSql\nReact Native\nHTML5",
+    "skills_normalized": "our key skills node.js vue.js wordpress postgresql react native html5"
+  },
+  {
+    "id": 305,
+    "name": "Nanosoft",
+    "skills_raw": "Our Key Skills\nSQL\n.NET\nC#\nASP.NET\nMVC\nHTML5",
+    "skills_normalized": "our key skills sql .net c# asp.net mvc html5"
+  },
+  {
+    "id": 306,
+    "name": "NashTech",
+    "skills_raw": "Our Key Skills\n.NET\nJava\nQA QC\nPHP\nBusiness Analyst\nReactJS\nPython\nManual / Automation Test\nFrontend (Angular/ReactJS/VueJS)\nMobile (Native App and Cross platform)\nMicroservice\nCloud computing",
+    "skills_normalized": "our key skills .net java qa qc php business analyst react python manual / automation test frontend (angular/react/vue.js) mobile (native app and cross platform) microservice cloud computing"
+  },
+  {
+    "id": 307,
+    "name": "NAVER VIETNAM",
+    "skills_raw": "Swift\nJava\nJavaScript\nC language\nReactJS\nKotlin",
+    "skills_normalized": "swift java javascript c language react kotlin"
+  },
+  {
+    "id": 308,
+    "name": "Neos Việt Nam",
+    "skills_raw": "Bridge Engineer\nFlutter\nPHP\nJavaScript\nPython\nSwift",
+    "skills_normalized": "bridge engineer flutter php javascript python swift"
+  },
+  {
+    "id": 310,
+    "name": "New Ocean IS",
+    "skills_raw": "Our Key Skills\nASP.NET\nJavaScript\n.NET\nC#\nAngularJS\nReact Native\nJavaScript, HTML5, AngularJS, AngularJS 2, Ionic, CordovaASP.NET MVC, .NET, C#, Azure, IoT, Machine Learning, Artficial IntelligenceCloud-based Enterprise Solutions",
+    "skills_normalized": "our key skills asp.net javascript .net c# angularjs react native javascript, html5, angularjs, angularjs 2, ionic, cordovaasp.net mvc, .net, c#, azure, iot, machine learning, artficial intelligencecloud-based enterprise solutions"
+  },
+  {
+    "id": 311,
+    "name": "NEXON DEV VINA",
+    "skills_raw": "Our main skills\nJava\nReactJS\nNodeJS\nSpring\nJavaScript\nCSS",
+    "skills_normalized": "our main skills java react node.js spring javascript css"
+  },
+  {
+    "id": 312,
+    "name": "Nexsoft Technology",
+    "skills_raw": "Golang\nTester\nDevOps\nBlockchain\nPython\nQA QC",
+    "skills_normalized": "go tester devops blockchain python qa qc"
+  },
+  {
+    "id": 313,
+    "name": "Next Chain Tech",
+    "skills_raw": "Our Tech stack\nReactJS\nNodeJS\nJava\nCloud\nFlutter\nDevOps\nWe Use Java, React Js, Node Js, Java, Cloud, Flutter",
+    "skills_normalized": "our tech stack react node.js java cloud flutter devops we use java, react js, node.js, java, cloud, flutter"
+  },
+  {
+    "id": 314,
+    "name": "NEYU Ltd.,",
+    "skills_raw": "Tech stacks we are working with\nJava\nGolang\nDevOps\nMySQL\nPostgreSql\nOOP\nJava, Golang, JavaScript\nHTML, CSS\nMySQL, PostgreSQL, MongoDB\nRedis, Elasticsearch\nMicroservice Architecture, RESTful APIs\nAsterisk PABX\nMethodology: Scrum Agile\nAnd many more stacks that you can join to work with us for future applications.",
+    "skills_normalized": "tech stacks we are working with java go devops mysql postgresql oop java, go, javascript html, css mysql, postgresql, mongodb redis, elasticsearch microservice architecture, restful apis asterisk pabx methodology: scrum agile and many more stacks that you can join to work with us for future applications."
+  },
+  {
+    "id": 315,
+    "name": "Ngân hàng TMCP Lộc Phát Việt Nam LPBank",
+    "skills_raw": "Our Key Skills\nOracle\nSecurity\nDatabase\niOS\nSQL\nEnglish",
+    "skills_normalized": "our key skills oracle security database ios sql english"
+  },
+  {
+    "id": 316,
+    "name": "Ngân hàng TMCP Thịnh vượng và Phát triển (PGBank)",
+    "skills_raw": "Our Key Skills\nHTML5\n.NET\nJavaScript\niOS\nAndroid\nJava\nOracle, SQL, SAP Business Object, PL/SQL Core banking",
+    "skills_normalized": "our key skills html5 .net javascript ios android java oracle, sql, sap business object, pl/sql core banking"
+  },
+  {
+    "id": 317,
+    "name": "Ngân hàng TNHH MTV Việt Nam Hiện Đại (MBV)",
+    "skills_raw": "Database\nSQL\n.NET\nJava\nNetworking\nOracle",
+    "skills_normalized": "database sql .net java networking oracle"
+  },
+  {
+    "id": 318,
+    "name": "NGS",
+    "skills_raw": "Our Key Skills\nDatabase\nNetworking\nIT Support",
+    "skills_normalized": "our key skills database networking it support"
+  },
+  {
+    "id": 320,
+    "name": "NTT DATA VDS",
+    "skills_raw": "Our Key Skills\nJava\nDevOps\nAndroid\nJ2EE\nSpring\nCloud",
+    "skills_normalized": "our key skills java devops android j2ee spring cloud"
+  },
+  {
+    "id": 321,
+    "name": "Ohmyhotel&Co VN Co.,Ltd",
+    "skills_raw": ".NET\nC#\nSQL\n.NET\nHTML5\nCSS\nJavaScript",
+    "skills_normalized": ".net c# sql .net html5 css javascript"
+  },
+  {
+    "id": 322,
+    "name": "Oivan",
+    "skills_raw": "Full Stack\nRuby on Rails\nAngularJS\nJavaScript\nHTML5\nJQuery\nFlutter\nWe utilize a variety of programming languages across our diverse projects.",
+    "skills_normalized": "full stack ruby on rails angularjs javascript html5 jquery flutter we utilize a variety of programming languages across our diverse projects."
+  },
+  {
+    "id": 323,
+    "name": "OLLI",
+    "skills_raw": "Our Key Skills\nEmbedded\nPython\nNodeJS\nObjective C\niOS",
+    "skills_normalized": "our key skills embedded python node.js objective c ios"
+  },
+  {
+    "id": 324,
+    "name": "OL Vietnam",
+    "skills_raw": "Our Tech Stack and What Technologies We Use\n.NET\nDatabase\nC#\nSQL\nOOP\nAgile\nWe understand that managing your content and the operation that supports it can be challenging. So we try to make your life easier by finding the right tools for the job with the Orange's DAM with multiple features:\nIntegration\nStorage\nWorkflow\nMetadata\nArtificial Intelligence\nSecurity",
+    "skills_normalized": "our tech stack and what technologies we use .net database c# sql oop agile we understand that managing your content and the operation that supports it can be challenging. so we try to make your life easier by finding the right tools for the job with the orange's dam with multiple features: integration storage workflow metadata artificial intelligence security"
+  },
+  {
+    "id": 325,
+    "name": "OMNIA SYSTEMS COMPANY LIMITED",
+    "skills_raw": ".NET\nJavaScript\nASP.NET\nReact Native\nC#\nTypeScript",
+    "skills_normalized": ".net javascript asp.net react native c# typescript"
+  },
+  {
+    "id": 326,
+    "name": "One Mount Group",
+    "skills_raw": "Skills We Use\nCloud\nDevOps\nDatabase\nSQL\nJava\nOracle",
+    "skills_normalized": "skills we use cloud devops database sql java oracle"
+  },
+  {
+    "id": 329,
+    "name": "Oolio Vietnam",
+    "skills_raw": "Technology at Oolio\nNodeJS\nTypeScript\nReactJS\nReact Native\nAWS\nAgile\nLanguages & Frameworks\nLambdas, SNS/SQS/EventBridge, Glue/Athena, GraphQL, Websocket, Redis, Remix, Nest\nCloud Services - AWS\nLambda, Postgres, S3, API Gateway, CLI, SNS/SQS, EC2, EKS, Cloud Watch, Twilio, Vercel, Amazon (ECR, EKS, S3, Dynamo, EventBridge, Lambdas)\nDevOps\nGithub Actions, Gitops, ArgoCD, Kubernetes, Terraform, Prometheus, Grafana, Kustomize, Hydra/Ory Auth Keeper, Traefik.\nCollaboration\nMicrosoft 365 Outlook, Slack, Microsoft Teams, JIRA, Notion",
+    "skills_normalized": "technology at oolio node.js typescript react react native aws agile languages & frameworks lambdas, sns/sqs/eventbridge, glue/athena, graphql, websocket, redis, remix, nest cloud services - aws lambda, postgresql, s3, api gateway, cli, sns/sqs, ec2, eks, cloud watch, twilio, vercel, amazon (ecr, eks, s3, dynamo, eventbridge, lambdas) devops github actions, gitops, argocd, kubernetes, terraform, prometheus, grafana, kustomize, hydra/ory auth keeper, traefik. collaboration microsoft 365 outlook, slack, microsoft teams, jira, notion"
+  },
+  {
+    "id": 330,
+    "name": "OpenWay Asia",
+    "skills_raw": "Java\nJavaScript\nHTML5\nMySQL\nOracle\nC#",
+    "skills_normalized": "java javascript html5 mysql oracle c#"
+  },
+  {
+    "id": 331,
+    "name": "Optimizely",
+    "skills_raw": "Our Key Skills\nC#\nASP.NET\nReactJS\nQA QC\nJavaScript\n.NET\nUsing Scrum in all product development teams, most of our products is based on Microsoft technology. On the backend side, .NetFramework/ASP.NET and .Netcore/ASP.NETcore as web development platform, cloud platform and services are built on top of Microsoft Azure. There are also a few products being built with Java and Python as well. On the front-end side, we are designing and developing large single-page JavaScript applications using modern JavaScript technologies like React.",
+    "skills_normalized": "our key skills c# asp.net react qa qc javascript .net using scrum in all product development teams, most of our products is based on microsoft technology. on the backend side, .netframework/asp.net and .netcore/asp.netcore as web development platform, cloud platform and services are built on top of microsoft azure. there are also a few products being built with java and python as well. on the front-end side, we are designing and developing large single-page javascript applications using modern javascript technologies like react."
+  },
+  {
+    "id": 333,
+    "name": "Orient Software Development Corp.",
+    "skills_raw": "Our Key Skills\nC#\nJavaScript\n.NET\nAngular\nReactJS",
+    "skills_normalized": "our key skills c# javascript .net angular react"
+  },
+  {
+    "id": 334,
+    "name": "Otto International",
+    "skills_raw": "Python\nJava\nJavaScript\nBusiness Analyst\nC#\nBusiness Intelligence",
+    "skills_normalized": "python java javascript business analyst c# business intelligence"
+  },
+  {
+    "id": 335,
+    "name": "Outcubator",
+    "skills_raw": "Our Key Skills\nPHP\nMySQL\nNoSQL\nOOP\nJavaScript\nEnglish\nAs the international company, we look for smart and global-minded people to join us to help the company grow and provide the world the most convenient payment methods",
+    "skills_normalized": "our key skills php mysql nosql oop javascript english as the international company, we look for smart and global-minded people to join us to help the company grow and provide the world the most convenient payment methods"
+  },
+  {
+    "id": 336,
+    "name": "Outpost24",
+    "skills_raw": "Java\nGolang\nPython\nC++\nSQL\nJavaScript",
+    "skills_normalized": "java go python c++ sql javascript"
+  },
+  {
+    "id": 337,
+    "name": "PAL TECH",
+    "skills_raw": "Our Key Skills\nJava\nPython\nAngularJS\nQA QC\nTester\nBusiness Analyst",
+    "skills_normalized": "our key skills java python angularjs qa qc tester business analyst"
+  },
+  {
+    "id": 338,
+    "name": "Panasonic Vietnam Group – Panasonic R&D Center Vietnam (PRDCV)",
+    "skills_raw": "Our Key Skills\nEnglish\nEmbedded\nCloud\nJava\nData Analyst\nAndroid",
+    "skills_normalized": "our key skills english embedded cloud java data analyst android"
+  },
+  {
+    "id": 339,
+    "name": "Parcel Perform",
+    "skills_raw": "Python\nScala\nReactJS\nJavaScript\nDevOps\nWordpress",
+    "skills_normalized": "python scala react javascript devops wordpress"
+  },
+  {
+    "id": 340,
+    "name": "Pasona Tech Việt Nam",
+    "skills_raw": "Our Key Skills\nSAP\nJavaScript\nSQL\nJapanese\nERP\nOracle",
+    "skills_normalized": "our key skills sap javascript sql japanese erp oracle"
+  },
+  {
+    "id": 341,
+    "name": "PAVE",
+    "skills_raw": "Our Key Skills\nReactJS\nPHP\nNodeJS\nDatabase\nPython\nCloud",
+    "skills_normalized": "our key skills react php node.js database python cloud"
+  },
+  {
+    "id": 343,
+    "name": "Perfetti Van Melle",
+    "skills_raw": "Our Key Skills\nDatabase\nC++\nOracle",
+    "skills_normalized": "our key skills database c++ oracle"
+  },
+  {
+    "id": 344,
+    "name": "Persol Career Tech Studio Vietnam",
+    "skills_raw": "Skills We Use\n.NET\nTypeScript\nSpring\nAWS\nAzure\nAgile\nBackend Stack: Node.js, Java, C#\nFrontend Stack: ReactJS, Vue.js, Angular\nDatabase: MySQL, Oracle\nInfra Structure: AWS, GCP, Azure\nCommunication: Slack, Teams",
+    "skills_normalized": "skills we use .net typescript spring aws azure agile backend stack: node.js, java, c# frontend stack: react, vue.js, angular database: mysql, oracle infra structure: aws, gcp, azure communication: slack, teams"
+  },
+  {
+    "id": 345,
+    "name": "Phoenix Unity",
+    "skills_raw": "Project Manager\n.NET\nQA QC\nTester\nASP.NET\nBusiness Analyst",
+    "skills_normalized": "project manager .net qa qc tester asp.net business analyst"
+  },
+  {
+    "id": 347,
+    "name": "Piscada",
+    "skills_raw": "Python\nFlutter\nTypeScript\nC++\nReactJS\nTester",
+    "skills_normalized": "python flutter typescript c++ react tester"
+  },
+  {
+    "id": 348,
+    "name": "Pixelz",
+    "skills_raw": "Our Key Skills\n.NET\nC#\nASP.NET\nAWS\nSoftware Architect\nMVC\nJoin Pixelz – Build, Innovate, Thrive!\n At Pixelz we create cutting-edge products that solve real-world problems at scale. Our engineering culture fosters innovation, collaboration, and continuous learning. Work with the latest technologies, tackle exciting challenges, and grow alongside top talent. We offer competitive pay, flexible work options, and career growth opportunities in a supportive, balanced environment.\n Ready to make an impact? Join us! 🚀",
+    "skills_normalized": "our key skills .net c# asp.net aws software architect mvc join pixelz – build, innovate, thrive! at pixelz we create cutting-edge products that solve real-world problems at scale. our engineering culture fosters innovation, collaboration, and continuous learning. work with the latest technologies, tackle exciting challenges, and grow alongside top talent. we offer competitive pay, flexible work options, and career growth opportunities in a supportive, balanced environment. ready to make an impact? join us! 🚀"
+  },
+  {
+    "id": 349,
+    "name": "PIXTA Vietnam",
+    "skills_raw": "Our Key Skills\nRuby\nRuby on Rails\nDatabase\nReactJS\nAWS\nVueJS\nProgramming language: Ruby, Node.js, Python\nFrameworks/ Libraries: Ruby on Rails, React,..\nDatabase: MySql, DynamoDB, Redis, ...\nInfrastructure: Amazon Web Services (EC2, S3, DynamoDB,SQS, ECS…), ElasticSearch,\nTools: GitHub, Trello, CircleCl,",
+    "skills_normalized": "our key skills ruby ruby on rails database react aws vue.js programming language: ruby, node.js, python frameworks/ libraries: ruby on rails, react,.. database: mysql, dynamodb, redis, ... infrastructure: amazon web services (ec2, s3, dynamodb,sqs, ecs…), elasticsearch, tools: github, trello, circlecl,"
+  },
+  {
+    "id": 350,
+    "name": "Pizza Hut Digital & Technology",
+    "skills_raw": "Some words on our stack\nNodeJS\nJava\nJavaScript\nReact Native\nAWS\nEnglish\nThe delicious frontend is built on React, Redux and plenty of Javascript. Our cheesy backend runs on a combination of Node.js and AWS Lambda. All of which is based on a delicious Infrastructure dough made up of a secret combination of the AWS Stack (ECS, SQS), Terraform, Circle CI and Docker.",
+    "skills_normalized": "some words on our stack node.js java javascript react native aws english the delicious frontend is built on react, redux and plenty of javascript. our cheesy backend runs on a combination of node.js and aws lambda. all of which is based on a delicious infrastructure dough made up of a secret combination of the aws stack (ecs, sqs), terraform, circle ci and docker."
+  },
+  {
+    "id": 351,
+    "name": "PLAYSTUDIOS",
+    "skills_raw": "Java\nUnity\n.NET\nNodeJS\nDevOps\nEnglish",
+    "skills_normalized": "java unity .net node.js devops english"
+  },
+  {
+    "id": 353,
+    "name": "PosApp",
+    "skills_raw": "Our Key Skills\nAngularJS\nPHP\nHTML5\nUI-UX\nReactJS",
+    "skills_normalized": "our key skills angularjs php html5 ui-ux react"
+  },
+  {
+    "id": 354,
+    "name": "PowerGate Software",
+    "skills_raw": "Our Key Skills\n.NET\nNodeJS\nReact Native\nReactJS\nPHP\nProject Manager",
+    "skills_normalized": "our key skills .net node.js react native react php project manager"
+  },
+  {
+    "id": 355,
+    "name": "Prime Tech Solution",
+    "skills_raw": "Java\nSpring Boot\nReactJS\nAngular\nAgile\nDevOps",
+    "skills_normalized": "java spring boot react angular agile devops"
+  },
+  {
+    "id": 357,
+    "name": "PwC Vietnam",
+    "skills_raw": "Our Key Skills\nDatabase\nPython\nJava\nERP\nManager\nLinux",
+    "skills_normalized": "our key skills database python java erp manager linux"
+  },
+  {
+    "id": 361,
+    "name": "RAKSUL Vietnam",
+    "skills_raw": "Ruby\nVueJS\nAWS\nPHP\nNodeJS\nDevOps\nBackend Stack: Ruby, Ruby on Rails, NodeJS\nFrontend Stack: Vue.js, Nuxt.js\nInterface: GraphQL, REST API, gRPC, Kafka\nDatabase: MySQL, Redis, Elasticsearch\nInfra Structure: AWS (Aurora,EC2, S3 S3, Lambda etc), GCP (BigQuery, CloudFunctions, etc)\nCI: CircleCI, Jenkins, CodePipeline\nCommunication: Slack, Notion, ClickUp",
+    "skills_normalized": "ruby vue.js aws php node.js devops backend stack: ruby, ruby on rails, node.js frontend stack: vue.js, nuxt.js interface: graphql, rest api, grpc, kafka database: mysql, redis, elasticsearch infra structure: aws (aurora,ec2, s3 s3, lambda etc), gcp (bigquery, cloudfunctions, etc) ci: circleci, jenkins, codepipeline communication: slack, notion, clickup"
+  },
+  {
+    "id": 362,
+    "name": "Rakus Vietnam Company",
+    "skills_raw": "Our Key Skills\nTester\nJava\nPHP\nSpring\nPostgreSql\nJavaScript\nCloud Service Development/ Web Application Development with Java, Spring/ Springboot, Microservices, PHP, Zend Framework, PostgreSQL",
+    "skills_normalized": "our key skills tester java php spring postgresql javascript cloud service development/ web application development with java, spring/ springboot, microservices, php, zend framework, postgresql"
+  },
+  {
+    "id": 363,
+    "name": "Rakuten Fintech Vietnam Co., Ltd.",
+    "skills_raw": "Java\niOS\nAndroid\nVueJS\nSQL\nHTML5",
+    "skills_normalized": "java ios android vue.js sql html5"
+  },
+  {
+    "id": 365,
+    "name": "ReFlex Technologies Vietnam Co., Ltd",
+    "skills_raw": "Our Key Skills\nSystem Engineer\nC++\nC#\nOOP\nEnglish",
+    "skills_normalized": "our key skills system engineer c++ c# oop english"
+  },
+  {
+    "id": 367,
+    "name": "Renn Labs",
+    "skills_raw": "Unlocking Exponential Potential with Disruptive Tech\nJavaScript\nNodeJS\nAWS\nPython\nReactJS\nAgile\nAt Renn Labs, we dare to envision the impossible and harness the power of emerging technologies to build world-class products and solutions. We collaborate with visionary organizations who share our drive for innovation and are eager to create an extraordinary legacy together.",
+    "skills_normalized": "unlocking exponential potential with disruptive tech javascript node.js aws python react agile at renn labs, we dare to envision the impossible and harness the power of emerging technologies to build world-class products and solutions. we collaborate with visionary organizations who share our drive for innovation and are eager to create an extraordinary legacy together."
+  },
+  {
+    "id": 368,
+    "name": "Restaff – House Of Norway",
+    "skills_raw": "Our Key Skills\n.NET\nJava\nNodeJS\nGolang\nAngular\nRuby on Rails\nAll of members have a good understanding of both back and front end development technologies. In our ultra competitive industry, it is an advantage for each individual developer to keep up to date with the most efficient and widely used technologies. Our proven client engagement model helps deliver products on-time, bug-free, and at very reasonable costs.",
+    "skills_normalized": "our key skills .net java node.js go angular ruby on rails all of members have a good understanding of both back and front end development technologies. in our ultra competitive industry, it is an advantage for each individual developer to keep up to date with the most efficient and widely used technologies. our proven client engagement model helps deliver products on-time, bug-free, and at very reasonable costs."
+  },
+  {
+    "id": 369,
+    "name": "ROSHI",
+    "skills_raw": "ReactJS\nHTML5\nCSS\nTypeScript\nCloud\nNodeJS\nReact with MaterialUI\nNodeJs/Express\nTypescript\nPrisma ORM\nDocker\nAzure Cloud\nPayload CMS",
+    "skills_normalized": "react html5 css typescript cloud node.js react with materialui node.js/express typescript prisma orm docker azure cloud payload cms"
+  },
+  {
+    "id": 371,
+    "name": "Saigon Technology",
+    "skills_raw": "Our Key Skills\n.NET\nJava\nAngular\nReactJS\nNodeJS\nDevOps",
+    "skills_normalized": "our key skills .net java angular react node.js devops"
+  },
+  {
+    "id": 372,
+    "name": "Samsung Electronics HCMC CE Complex",
+    "skills_raw": "Embedded\nAndroid\nReactJS\nOOP\nC++\nPython",
+    "skills_normalized": "embedded android react oop c++ python"
+  },
+  {
+    "id": 373,
+    "name": "SAPO",
+    "skills_raw": "Our Key Skills\nReactJS\n.NET\nJava\nC#\nSQL\nJQuery",
+    "skills_normalized": "our key skills react .net java c# sql jquery"
+  },
+  {
+    "id": 374,
+    "name": "SAP Vietnam",
+    "skills_raw": "Our Tech Stack and Key Skills\nJava\nJavaScript\nAgile\nCloud\nAWS\nQA QC\nBackend & Frontend: Java, J2EE, JSON, Spring Boot, Rest, Hibernate, Kafka, Agile, TypeScript, Angular JS, NodeJS, React, \nDevOps: CI/CD, Jenkins, Ansible, Kubernetes, Docker, Grafana, Kibana, Dynatrace, GitHub; AWS, GCP, Azure, etc.; \nData Science: Java, Machine Learning, Data Mining Algorithms, SQL, Hadoop, Data Bricks, Python, R",
+    "skills_normalized": "our tech stack and key skills java javascript agile cloud aws qa qc backend & frontend: java, j2ee, json, spring boot, rest, hibernate, kafka, agile, typescript, angular js, node.js, react, devops: ci/cd, jenkins, ansible, kubernetes, docker, grafana, kibana, dynatrace, github; aws, gcp, azure, etc.; data science: java, machine learning, data mining algorithms, sql, hadoop, data bricks, python, r"
+  },
+  {
+    "id": 375,
+    "name": "Scandinavian Software Park",
+    "skills_raw": "Highly Passionate Software Engineers\nC#\nJavaScript\nJava\nPHP\nQA QC\nSQL\nAt Scandinavian Software Park, we leverage the latest tech stack to create innovative solutions for a wide range of industries worldwide, bringing together skilled software engineers from Scandinavia's top SaaS companies.",
+    "skills_normalized": "highly passionate software engineers c# javascript java php qa qc sql at scandinavian software park, we leverage the latest tech stack to create innovative solutions for a wide range of industries worldwide, bringing together skilled software engineers from scandinavia's top saas companies."
+  },
+  {
+    "id": 376,
+    "name": "SCC Vietnam",
+    "skills_raw": "Our Key Skills\nSoftware Development\nInfrastructure support – Servers, Storage and Networks",
+    "skills_normalized": "our key skills software development infrastructure support – servers, storage and networks"
+  },
+  {
+    "id": 377,
+    "name": "SECUTIX",
+    "skills_raw": "Our Key Skills\nAgile\nJavaScript\nJava\nReactJS\nDevOps\nAWS - Automation Testing - QA/QC It’s not only about coding, but also about building an open product from idea to production & develop API/Integration with external partners as an open platform.Interesting topics in our daily work: secured mobile ticket, blockchain, chatbot, Google Assistant AI integration, facebook “in app” purchase, partner integration: paypal, tripadvisor, etc.\nFor more information:\nHomepage:  www.secutix.com\nFacebook & LinkedIn: SecuTix SA",
+    "skills_normalized": "our key skills agile javascript java react devops aws - automation testing - qa/qc it’s not only about coding, but also about building an open product from idea to production & develop api/integration with external partners as an open platform.interesting topics in our daily work: secured mobile ticket, blockchain, chatbot, google assistant ai integration, facebook “in app” purchase, partner integration: paypal, tripadvisor, etc. for more information: homepage: www.secutix.com facebook & linkedin: secutix sa"
+  },
+  {
+    "id": 379,
+    "name": "Semrush",
+    "skills_raw": "Tech-Stack & Development Enviroment\nScala\nGCP\nGolang\nPython\nAgile\nEnglish\nSemrush is a leading SaaS platform for online visibility management, helping businesses worldwide with SEO, PPC, content, social media, and competitive research. Developed for 16 years, it has won multiple awards (G2, Deloitte, Global & US Search Awards) and has been listed on the NYSE (SEMR) since 2021. With over 10 million users across America, Europe, Asia, and Australia, more than 1,000 employees contribute to its continuous development.",
+    "skills_normalized": "tech-stack & development enviroment scala gcp go python agile english semrush is a leading saas platform for online visibility management, helping businesses worldwide with seo, ppc, content, social media, and competitive research. developed for 16 years, it has won multiple awards (g2, deloitte, global & us search awards) and has been listed on the nyse (semr) since 2021. with over 10 million users across america, europe, asia, and australia, more than 1,000 employees contribute to its continuous development."
+  },
+  {
+    "id": 380,
+    "name": "SEN VÀNG VIỆT NAM",
+    "skills_raw": "Data Analyst\nPython\nSQL\nBlockchain\nC#\n.NET",
+    "skills_normalized": "data analyst python sql blockchain c# .net"
+  },
+  {
+    "id": 381,
+    "name": "SePay",
+    "skills_raw": "SePay giúp tự động hóa thanh toán, CK ngân hàng\nPHP",
+    "skills_normalized": "sepay giúp tự động hóa thanh toán, ck ngân hàng php"
+  },
+  {
+    "id": 382,
+    "name": "Seven System Vietnam",
+    "skills_raw": "Java\nQA QC\nReact Native\nTester\nSpring\nOOP",
+    "skills_normalized": "java qa qc react native tester spring oop"
+  },
+  {
+    "id": 383,
+    "name": "SGH Asia Ltd.",
+    "skills_raw": "Our Key Skills\nJava\nJavaScript\nMySQL\nManager\nEnglish\nNetworking",
+    "skills_normalized": "our key skills java javascript mysql manager english networking"
+  },
+  {
+    "id": 384,
+    "name": "SHINHAN DS",
+    "skills_raw": "Our Key Skills\nSQL\nC language\nJava\nLinux\nEnglish\nOracle",
+    "skills_normalized": "our key skills sql c language java linux english oracle"
+  },
+  {
+    "id": 385,
+    "name": "Shopee",
+    "skills_raw": "Latest Technology We Trust\nJavaScript\nJava\nPHP\nHTML5\nAndroid\niOS\nWe are constantly developing new technologies and performance turning our products. Depending on the project, you're working on, you migh use Golang, Hadoop, Docker, Kubernetes, Spark, Map-Reduce etc. or other emerging technology.",
+    "skills_normalized": "latest technology we trust javascript java php html5 android ios we are constantly developing new technologies and performance turning our products. depending on the project, you're working on, you migh use go, hadoop, docker, kubernetes, spark, map-reduce etc. or other emerging technology."
+  },
+  {
+    "id": 386,
+    "name": "Silentium Vietnam",
+    "skills_raw": "Our Key Skills\nJavaScript\nGolang\nJava\nProduct Manager\nUI-UX\nEnglish",
+    "skills_normalized": "our key skills javascript go java product manager ui-ux english"
+  },
+  {
+    "id": 387,
+    "name": "Silicon Prime Labs",
+    "skills_raw": "MVC\nASP.NET\n.NET\niOS\nAngularJS\nNodeJS\nReactJs, Big Data, Amazon Cloud, Azure Cloud, Java, etc.",
+    "skills_normalized": "mvc asp.net .net ios angularjs node.js react, big data, amazon cloud, azure cloud, java, etc."
+  },
+  {
+    "id": 388,
+    "name": "Simple Tech Investment",
+    "skills_raw": "PHP, React, SQL, Agile, AWS\nQA QC\nPHP\nReactJS\nSQL\nAgile\nReact Native",
+    "skills_normalized": "php, react, sql, agile, aws qa qc php react sql agile react native"
+  },
+  {
+    "id": 389,
+    "name": "Simplifi",
+    "skills_raw": "Skills We Use\nSpring\nJava\nEnglish\nPostgreSql\nSoftware Architect\nMySQL\nMongoDB, Redis, Hazelcast, MQTT, Kafka, RabbitMQ, ELK stack, Spring Boot, RESTful APIs, Microservices, Jira, Git, Confluence, (Docker/Kubernetes and Cloud Infrastructure).",
+    "skills_normalized": "skills we use spring java english postgresql software architect mysql mongodb, redis, hazelcast, mqtt, kafka, rabbitmq, elk stack, spring boot, restful apis, microservices, jira, git, confluence, (docker/kubernetes and cloud infrastructure)."
+  },
+  {
+    "id": 390,
+    "name": "Simpson Strong-Tie Vietnam",
+    "skills_raw": "Our Key Skills\n.NET\nJavaScript\nReactJS\nC#\nJava\nQA QC",
+    "skills_normalized": "our key skills .net javascript react c# java qa qc"
+  },
+  {
+    "id": 391,
+    "name": "Skedulo Vietnam",
+    "skills_raw": "ReactJS\nNodeJS\nJava\nCSS\nJavaScript\nSalesforce",
+    "skills_normalized": "react node.js java css javascript salesforce"
+  },
+  {
+    "id": 394,
+    "name": "SkyLab",
+    "skills_raw": "Skills We Need\nLinux\nC++\nRuby on Rails\nDatabase\nSoftware Architect\nNetworking\nOver the years, SkyLab has deployed large scale networks for the following segments.Location Based B2B M2M solution, PV Solar metering Smart offshore and onshore remote sensing, Mission Critical Video Surveillance systems, Government and Private Enterprise full Turn key Communications Infrastructure, Carrier Grade Transmission network solutions.",
+    "skills_normalized": "skills we need linux c++ ruby on rails database software architect networking over the years, skylab has deployed large scale networks for the following segments.location based b2b m2m solution, pv solar metering smart offshore and onshore remote sensing, mission critical video surveillance systems, government and private enterprise full turn key communications infrastructure, carrier grade transmission network solutions."
+  },
+  {
+    "id": 396,
+    "name": "SmartOSC",
+    "skills_raw": "PHP\nJava\n.NET\nMagento\nASP.NET\nJ2EE\nGood experience with popular PHP frameworks\nSolid knowledge of JavaScript and can apply OOP practice with JavaScript\nExperienced with Magento/Wordpress/Drupal/Joomla and other CMS and e-commerce system\nExperienced with Linux or Windows server, deployment, and configuration",
+    "skills_normalized": "php java .net magento asp.net j2ee good experience with popular php frameworks solid knowledge of javascript and can apply oop practice with javascript experienced with magento/wordpress/drupal/joomla and other cms and e-commerce system experienced with linux or windows server, deployment, and configuration"
+  },
+  {
+    "id": 397,
+    "name": "SMG Swiss Marketplace Group",
+    "skills_raw": "MODERN TECH STACK & TOOLS\nAWS\nJavaScript\nJava\nFlutter\nAndroid\niOS\nDomain Driven Design, Micro-services, Serverless, Clean Architecture\nAWS, Lambda, SNS, NodeJS, TypeScript  \nJava, Springboot\nGoLang\nReactJS, VueJS, Micro-Frontend\nKotlin, Swift, Flutter/Dart, Android, iOS \nDatadog, Sentry, Cloudfare\nBackstage, Figma, Jira, Github",
+    "skills_normalized": "modern tech stack & tools aws javascript java flutter android ios domain driven design, micro-services, serverless, clean architecture aws, lambda, sns, node.js, typescript java, springboot go react, vue.js, micro-frontend kotlin, swift, flutter/dart, android, ios datadog, sentry, cloudfare backstage, figma, jira, github"
+  },
+  {
+    "id": 398,
+    "name": "Softly LLC",
+    "skills_raw": "We provide scalable solutions to hi tech challenges.\nGolang\nRust\nPostgreSql\nVueJS\nNodeJS\nLinux\nWith cutting-edge technology and seamless integration, we provide scalable solutions that ensure your systems run smoothly and efficiently.",
+    "skills_normalized": "we provide scalable solutions to hi tech challenges. go rust postgresql vue.js node.js linux with cutting-edge technology and seamless integration, we provide scalable solutions that ensure your systems run smoothly and efficiently."
+  },
+  {
+    "id": 399,
+    "name": "SoftNET Network Co Ltd.",
+    "skills_raw": "Technology We Use\nSystem Engineer\nEnglish\nNetworking\nIT Support\nQA QC\nCCNA/JUPINER equal CCNA is required. Others CCNP, MCITP, MCSA, HP Unix, Oracle, Solaris Unix, Window Server….is plus",
+    "skills_normalized": "technology we use system engineer english networking it support qa qc ccna/jupiner equal ccna is required. others ccnp, mcitp, mcsa, hp unix, oracle, solaris unix, window server….is plus"
+  },
+  {
+    "id": 400,
+    "name": "SoftRoad Việt Nam",
+    "skills_raw": "Java\nSpring\nSQL\nHTML5\nJapanese\nCOBOL",
+    "skills_normalized": "java spring sql html5 japanese cobol"
+  },
+  {
+    "id": 401,
+    "name": "Sohaco Group",
+    "skills_raw": "Our Key Skills\nDatabase\nIT Support\nNetworking",
+    "skills_normalized": "our key skills database it support networking"
+  },
+  {
+    "id": 402,
+    "name": "Solazu JSC",
+    "skills_raw": "JavaScript\nWordpress\nPHP\nOOP\nAngularJS\nNodeJS",
+    "skills_normalized": "javascript wordpress php oop angularjs node.js"
+  },
+  {
+    "id": 403,
+    "name": "Sota Tek",
+    "skills_raw": "Our Key Skills\nNodeJS\nPHP\nBlockchain\nC#\nC++\nReactJS\nSotaTek is a part of Sota Holdings, a global Software Development as a Service (SDaaS), IT Outsourcing & Consulting group headquartered in Vietnam, that delivers sustainable Software Development, including Web/App/Game Development, Blockchain, AI & Machine Learning, ERP with cost-effective solutions. About the Backend, we use NodeJS, PHP, Blockchain, and Java,... Frontend, our tech is ReactJS, Angular, VueJS",
+    "skills_normalized": "our key skills node.js php blockchain c# c++ react sotatek is a part of sota holdings, a global software development as a service (sdaas), it outsourcing & consulting group headquartered in vietnam, that delivers sustainable software development, including web/app/game development, blockchain, ai & machine learning, erp with cost-effective solutions. about the backend, we use node.js, php, blockchain, and java,... frontend, our tech is react, angular, vue.js"
+  },
+  {
+    "id": 404,
+    "name": "SourceCode",
+    "skills_raw": "Skills We Use\nNodeJS\nJavaScript\nReact Native\nReactJS\nPython\nAWS\nJavaScript frameworks (NodeJs, ReactJs, Next Js, Nest Js, React Native)\nPython\nUnit Testing framework (example: jest)\nCSS Framework (example: Bootstrap, MUI, Tailwind)\nTypescript\nGraphQL\nRestful API\nMongoDB\nSQL (MSSQL, Postgres)\nNoSQL (Redis)\nMicroservices\nDocker and cloud-based infrastructure setup (AWS)",
+    "skills_normalized": "skills we use node.js javascript react native react python aws javascript frameworks (node.js, react, next js, nest js, react native) python unit testing framework (example: jest) css framework (example: bootstrap, mui, tailwind) typescript graphql restful api mongodb sql (mssql, postgresql) nosql (redis) microservices docker and cloud-based infrastructure setup (aws)"
+  },
+  {
+    "id": 407,
+    "name": "SSI Securities Corporation",
+    "skills_raw": "Our Key Skills\nJavaScript\nReactJS\nJava\nSystem Engineer\nNodeJS\nPython",
+    "skills_normalized": "our key skills javascript react java system engineer node.js python"
+  },
+  {
+    "id": 408,
+    "name": "StarBap Technology Company",
+    "skills_raw": "Java\nPython\n.NET\nAngular\nEnglish\nReactJS\nERP Development & Cloud Service\nWeb/Mobile Application Development Service\nAI/Blockchain Development Service",
+    "skills_normalized": "java python .net angular english react erp development & cloud service web/mobile application development service ai/blockchain development service"
+  },
+  {
+    "id": 409,
+    "name": "Surbana Technologies Pte. Ltd.",
+    "skills_raw": "C#\nNodeJS\nAngular\nDatabase\nAndroid\niOS",
+    "skills_normalized": "c# node.js angular database android ios"
+  },
+  {
+    "id": 410,
+    "name": "Swisslog Vietnam",
+    "skills_raw": "Skills We Use\nJ2EE\nEnglish\nJava\nSQL\nAgile\nOracle\nJAVA J2EE ENGLISH Automation Test JUnit Selenium Maven Jenkins System test Manual test Agile",
+    "skills_normalized": "skills we use j2ee english java sql agile oracle java j2ee english automation test junit selenium maven jenkins system test manual test agile"
+  },
+  {
+    "id": 412,
+    "name": "TAG Worldwide",
+    "skills_raw": "PHP\nReactJS\nLaravel\nDrupal\nMagento\nProject Manager",
+    "skills_normalized": "php react laravel drupal magento project manager"
+  },
+  {
+    "id": 415,
+    "name": "Techbase Vietnam",
+    "skills_raw": "Our Key Skills\nPHP\nNodeJS\nJava\nAndroid\niOS",
+    "skills_normalized": "our key skills php node.js java android ios"
+  },
+  {
+    "id": 416,
+    "name": "Techcombank",
+    "skills_raw": "Java\nAWS\nAgile\nDevOps\nManager",
+    "skills_normalized": "java aws agile devops manager"
+  },
+  {
+    "id": 418,
+    "name": "Teqnological Asia",
+    "skills_raw": "Love IT, Love Technicals and Love Researching.\nReactJS\nGolang\nFlutter\nBridge Engineer\nQA QC\nDesigner\nWe're a production company, we're developing many products by using the latest technicals. We use AWS Services, Google Cloud Services and more. Using Gilab & Backlog as the main tools for developers. We're using English in communicating with partners from Japan, UK, Malaysia, and Taiwan.",
+    "skills_normalized": "love it, love technicals and love researching. react go flutter bridge engineer qa qc designer we're a production company, we're developing many products by using the latest technicals. we use aws services, google cloud services and more. using gilab & backlog as the main tools for developers. we're using english in communicating with partners from japan, uk, malaysia, and taiwan."
+  },
+  {
+    "id": 419,
+    "name": "The Access Group",
+    "skills_raw": "Our Key Skills\nJava\nReactJS\nProduct Manager\nJavaScript\nDatabase\nEnglish",
+    "skills_normalized": "our key skills java react product manager javascript database english"
+  },
+  {
+    "id": 420,
+    "name": "The Human Inc",
+    "skills_raw": "NodeJS\nGolang\nDevOps",
+    "skills_normalized": "node.js go devops"
+  },
+  {
+    "id": 422,
+    "name": "The Rep. Office of STYL Solutions Pte. Ltd. In HCMC",
+    "skills_raw": "Our Key Skills\nJava\nPHP\nAndroid\nDatabase\niOS",
+    "skills_normalized": "our key skills java php android database ios"
+  },
+  {
+    "id": 423,
+    "name": "Thoughtworks Vietnam",
+    "skills_raw": "Senior / Software Developer\nJava\nC#\nPython\nAgile\nOOP\nDevOps\nChampion best practices like writing clean and reusable code using practices like TDD, SOLID principles, OO design, and pair programming\nPartner with other technologists from cross-functional teams advocating DevOps culture\nExperience using two or more development languages (Java, JavaScript, C#, Python, etc.) with experience in Object-Oriented programming\nBonus points if you have knowledge of cloud technology such as AWS, Docker or Kubernetes",
+    "skills_normalized": "senior / software developer java c# python agile oop devops champion best practices like writing clean and reusable code using practices like tdd, solid principles, oo design, and pair programming partner with other technologists from cross-functional teams advocating devops culture experience using two or more development languages (java, javascript, c#, python, etc.) with experience in object-oriented programming bonus points if you have knowledge of cloud technology such as aws, docker or kubernetes"
+  },
+  {
+    "id": 425,
+    "name": "Titan DMS",
+    "skills_raw": "Skills We Use\nERP\nEnglish\n.NET\nC#\nSQL\nBusiness Analyst\n.NET (C#) \nASP.NET\nMVC\nJavaScript\nSQL, MySQL\nAWS\nAPI Integration\nWinForms\nManual Testing\nAutomation Testing\nSCRUM/ Agile methodology\nAs solutions company, we develop our own products & work on diverse number of projects also.",
+    "skills_normalized": "skills we use erp english .net c# sql business analyst .net (c#) asp.net mvc javascript sql, mysql aws api integration winforms manual testing automation testing scrum/ agile methodology as solutions company, we develop our own products & work on diverse number of projects also."
+  },
+  {
+    "id": 426,
+    "name": "Topicus Vietnam",
+    "skills_raw": "Java\nAngular\nC#\nDevOps\nNodeJS\nTypeScript",
+    "skills_normalized": "java angular c# devops node.js typescript"
+  },
+  {
+    "id": 427,
+    "name": "Toshiba Software Development (Viet Nam) Co, Ltd",
+    "skills_raw": "Our Key Skills\nJava\nQA QC\nC++\nC#\nC language\nEmbedded",
+    "skills_normalized": "our key skills java qa qc c++ c# c language embedded"
+  },
+  {
+    "id": 428,
+    "name": "TP Entertainment",
+    "skills_raw": "C#\nJava\nGames\nUnity\nAndroid\niOS",
+    "skills_normalized": "c# java games unity android ios"
+  },
+  {
+    "id": 429,
+    "name": "TPIsoftware Co., Ltd",
+    "skills_raw": "Skills We Use\nJava\nAngular\nPHP\nLaravel\nSpring\nScrum\nFrontend: React, Angular, PHP \nBackend: Java, PHP \nMobile: flutter, kotlin, IOS, Android \nInfrastructure: AWS, GCP, Docker, Kubernetes",
+    "skills_normalized": "skills we use java angular php laravel spring scrum frontend: react, angular, php backend: java, php mobile: flutter, kotlin, ios, android infrastructure: aws, gcp, docker, kubernetes"
+  },
+  {
+    "id": 430,
+    "name": "Travala.com",
+    "skills_raw": "AngularJS\nJava\nJavaScript\nBlockchain\nNodeJS\nReactJS",
+    "skills_normalized": "angularjs java javascript blockchain node.js react"
+  },
+  {
+    "id": 431,
+    "name": "Trek 2000 International",
+    "skills_raw": "Expertise in flash storage, IoT, AI, and cybersecurity.\niOS\nKotlin\nC++\nPython\nJava\nTrek 2000 excels in flash memory, wireless IoT, AI, and cybersecurity. As the inventor of the ThumbDrive™, we specialize in secure data storage, embedded systems, biometric authentication, and AI-driven analytics. Our innovations include encrypted storage, cloud solutions, and smart IoT integration. With patented technologies and global partnerships, we drive advancements in digital security, connectivity, and intelligent automation.",
+    "skills_normalized": "expertise in flash storage, iot, ai, and cybersecurity. ios kotlin c++ python java trek 2000 excels in flash memory, wireless iot, ai, and cybersecurity. as the inventor of the thumbdrive™, we specialize in secure data storage, embedded systems, biometric authentication, and ai-driven analytics. our innovations include encrypted storage, cloud solutions, and smart iot integration. with patented technologies and global partnerships, we drive advancements in digital security, connectivity, and intelligent automation."
+  },
+  {
+    "id": 433,
+    "name": "Trobz",
+    "skills_raw": "Our Key Skills\nPython\nEnglish\nERP\nLinux\nSystem Admin\nSQL",
+    "skills_normalized": "our key skills python english erp linux system admin sql"
+  },
+  {
+    "id": 434,
+    "name": "TRUONG MINH THINH TECHNOLOGY JOINT STOCK COMPANY",
+    "skills_raw": "Our Key Skills\nC#\nASP.NET\n.NET\nAngular\nPython\nSQL",
+    "skills_normalized": "our key skills c# asp.net .net angular python sql"
+  },
+  {
+    "id": 436,
+    "name": "Trusting Social",
+    "skills_raw": "Backend: Python, Golang; Frontend: ReactJS, Data: Spark\nPython\nGolang\nReactJS\nMySQL\nSQL\nDatabase\nWe use Spark and GPU computing for Machine Learning research. \nWe handle huge amounts of data (trillions of records, petabytes of storage) in on-premise and AWS Hadoop clusters. \nWe use Golang and Python for massive backend operations, ReactJS for Frontend. We write APIs and web services with NodeJS and React, and mobile applications with Android and Flutter. \nWe use Agile and Scrum, CI/CD for project management.",
+    "skills_normalized": "backend: python, go; frontend: react, data: spark python go react mysql sql database we use spark and gpu computing for machine learning research. we handle huge amounts of data (trillions of records, petabytes of storage) in on-premise and aws hadoop clusters. we use go and python for massive backend operations, react for frontend. we write apis and web services with node.js and react, and mobile applications with android and flutter. we use agile and scrum, ci/cd for project management."
+  },
+  {
+    "id": 437,
+    "name": "TymeX",
+    "skills_raw": "Here Are Our Expertise\nJava\nAgile\niOS\nAndroid\nAWS\nMobile/ Tablet Development: Native Android/iOS platforms for Mobile Banking, Kiosk Onboarding & Kiosk Card Printing.\nWeb development: Fully customized Single page Realtime Responsive for Internet Banking, Web Origination, and Backoffice Console.\nIntegration: Integration with Core Banking and many third parties\nIf you want to work in a flexible environment with many cool engineering talents can define career pathways and development opportunities\nSo why don't you discover our opening positions now!",
+    "skills_normalized": "here are our expertise java agile ios android aws mobile/ tablet development: native android/ios platforms for mobile banking, kiosk onboarding & kiosk card printing. web development: fully customized single page realtime responsive for internet banking, web origination, and backoffice console. integration: integration with core banking and many third parties if you want to work in a flexible environment with many cool engineering talents can define career pathways and development opportunities so why don't you discover our opening positions now!"
+  },
+  {
+    "id": 441,
+    "name": "Unifiedpost",
+    "skills_raw": "Skills We Use\nJava\nPython\nRuby on Rails\nAngular\nQA QC\nBusiness Analyst",
+    "skills_normalized": "skills we use java python ruby on rails angular qa qc business analyst"
+  },
+  {
+    "id": 442,
+    "name": "Unisofts",
+    "skills_raw": "ReactJS\nLinux\nNodeJS\nBusiness Analyst\nRust\nGolang",
+    "skills_normalized": "react linux node.js business analyst rust go"
+  },
+  {
+    "id": 445,
+    "name": "Vareal Vietnam Co., Ltd",
+    "skills_raw": "CSS\nRuby on Rails\nRuby\nHTML5\nLinux\nJavaScript",
+    "skills_normalized": "css ruby on rails ruby html5 linux javascript"
+  },
+  {
+    "id": 446,
+    "name": "VCAPTECH",
+    "skills_raw": "Project Manager\nC#\nASP.NET\nC++\nEnglish\nJava",
+    "skills_normalized": "project manager c# asp.net c++ english java"
+  },
+  {
+    "id": 447,
+    "name": "VIETCAP SECURITIES JOINT STOCK COMPANY",
+    "skills_raw": "Python\nJava\nReactJS\nCSS\nJavaScript\nNodeJS",
+    "skills_normalized": "python java react css javascript node.js"
+  },
+  {
+    "id": 448,
+    "name": "VietinBank",
+    "skills_raw": "Java\n.NET\nC++\nAndroid\niOS\nReact Native",
+    "skills_normalized": "java .net c++ android ios react native"
+  },
+  {
+    "id": 449,
+    "name": "Vietmap",
+    "skills_raw": "C#\n.NET\nHTML5\nCSS\nAgile",
+    "skills_normalized": "c# .net html5 css agile"
+  },
+  {
+    "id": 452,
+    "name": "Viettel Group",
+    "skills_raw": "JavaScript\nPython\nPHP\nUI-UX\nMySQL\nMVC",
+    "skills_normalized": "javascript python php ui-ux mysql mvc"
+  },
+  {
+    "id": 453,
+    "name": "Viettel Post (A Member of Viettel Group)",
+    "skills_raw": "Java,Angular,React Native,PHP,NodeJS,ReactJS,Oracle\nJava\nAngular\nReact Native\nNodeJS\nPHP\nReactJS",
+    "skills_normalized": "java,angular,react native,php,node.js,react,oracle java angular react native node.js php react"
+  },
+  {
+    "id": 454,
+    "name": "Viettel Software Services (A Member of Viettel Group)",
+    "skills_raw": "Our Key Skills\nJava\nOracle\nPython\nAndroid\niOS\nAgile",
+    "skills_normalized": "our key skills java oracle python android ios agile"
+  },
+  {
+    "id": 458,
+    "name": "Vitalify Asia",
+    "skills_raw": "Our Key Skills\nAndroid\niOS\nDesigner\nJava\nPHP\nUnity",
+    "skills_normalized": "our key skills android ios designer java php unity"
+  },
+  {
+    "id": 459,
+    "name": "VNDIRECT",
+    "skills_raw": "Our Key Skills\nJava\nReactJS\nReact Native\nAndroid\nSpring\niOS\nUser: Khách hàng cá nhân, khách hàng tổ chức, khách hàng nước ngoài\nPlatform : Web, Mobile (Android, iOS), Desktop App\nFront End: ReactJS, React Native, Swift, NodeJS\nBack End: Java, Spring boot, Micro-Service\nDatabase : MySQL, Postgres, Cassandra, Data Warehouse",
+    "skills_normalized": "our key skills java react react native android spring ios user: khách hàng cá nhân, khách hàng tổ chức, khách hàng nước ngoài platform : web, mobile (android, ios), desktop app front end: react, react native, swift, node.js back end: java, spring boot, micro-service database : mysql, postgresql, cassandra, data warehouse"
+  },
+  {
+    "id": 460,
+    "name": "VNG Corporation",
+    "skills_raw": "Our Key Skills\nJava\nAndroid\niOS\nC++\nQA QC",
+    "skills_normalized": "our key skills java android ios c++ qa qc"
+  },
+  {
+    "id": 462,
+    "name": "VNPAY",
+    "skills_raw": "Our Key Skills\nSQL\nJava\nOracle\nDatabase\n.NET",
+    "skills_normalized": "our key skills sql java oracle database .net"
+  },
+  {
+    "id": 463,
+    "name": "VPBank",
+    "skills_raw": "Our Key Skills\nJava\nC language\nQA QC\nSystem Engineer\nSystem Admin\nNetworking",
+    "skills_normalized": "our key skills java c language qa qc system engineer system admin networking"
+  },
+  {
+    "id": 464,
+    "name": "VRB",
+    "skills_raw": "SQL\n.NET\nOracle\nJava\nASP.NET",
+    "skills_normalized": "sql .net oracle java asp.net"
+  },
+  {
+    "id": 465,
+    "name": "Vulcan Labs",
+    "skills_raw": "iOS\nGolang\nAndroid\nPython\nTypeScript\nGCP",
+    "skills_normalized": "ios go android python typescript gcp"
+  },
+  {
+    "id": 466,
+    "name": "Wavenet",
+    "skills_raw": "Project Manager\nDevOps\nProduct Owner\nQA QC\nTester\nAutomation Test",
+    "skills_normalized": "project manager devops product owner qa qc tester automation test"
+  },
+  {
+    "id": 467,
+    "name": "what3words",
+    "skills_raw": "Our tech\nSwift\nKotlin\niOS\nAndroid\nObjective C\nJava\nwhat3words has built a massively scalable, microservices-based architecture, based around Kubernetes on AWS. You’ll be exposed to technologies such as Swift, Kotlin, Android, iOS, Maven, Gradle, Cocoapods, MLKit, CoreML, Vision, Jetpack Compose, UIKit, Wear, Android Auto and other platforms",
+    "skills_normalized": "our tech swift kotlin ios android objective c java what3words has built a massively scalable, microservices-based architecture, based around kubernetes on aws. you’ll be exposed to technologies such as swift, kotlin, android, ios, maven, gradle, cocoapods, mlkit, coreml, vision, jetpack compose, uikit, wear, android auto and other platforms"
+  },
+  {
+    "id": 468,
+    "name": "Wilmar CLV (Cambodia Laos Vietnam)",
+    "skills_raw": "Our Key Skills\nQA QC\nERP\nBusiness Analyst",
+    "skills_normalized": "our key skills qa qc erp business analyst"
+  },
+  {
+    "id": 471,
+    "name": "Yes4All",
+    "skills_raw": "Our Key Skills\nJavaScript\nMySQL\nJava\nSpring\nReactJS",
+    "skills_normalized": "our key skills javascript mysql java spring react"
+  },
+  {
+    "id": 472,
+    "name": "YOONG",
+    "skills_raw": "Yoong's latest Cloud & Micro-services technologies\n.NET\nJava\nGolang\nBlockchain\nCloud\nVueJS\nCloud: Azure, AWS\nLang: Java, .Net, Golang, Python, Vue, React..\nCI/CD: Azure pipelines, GitHub Actions\nContainer: K8s, AKS\nMonitoring: Jaeger, OpenTelemetry, Grafana, Prometheus, Elastic Obs, AZ Monitor, App Insights\nServerless: AZ Function, AWS Lambda, Cloudflare\nServer: Nginx\nSecret Mgmt: AZ KeyVault\nDB: Azure SQL, PostgreSQL, MongoDB, AWS RDS, InfluxDB, Firebase, Redis\nFile: AZ blob, S3\nCache: Redis, Memcached, Cloudflare\nMsg broker: AZ service bus, RabbitMQ, Kafka\nSearch: Elastic\nLow/No-code: N8N, Elsa",
+    "skills_normalized": "yoong's latest cloud & micro-services technologies .net java go blockchain cloud vue.js cloud: azure, aws lang: java, .net, go, python, vue, react.. ci/cd: azure pipelines, github actions container: kubernetes, aks monitoring: jaeger, opentelemetry, grafana, prometheus, elastic obs, az monitor, app insights serverless: az function, aws lambda, cloudflare server: nginx secret mgmt: az keyvault db: azure sql, postgresql, mongodb, aws rds, influxdb, firebase, redis file: az blob, s3 cache: redis, memcached, cloudflare msg broker: az service bus, rabbitmq, kafka search: elastic low/no-code: n8n, elsa"
+  },
+  {
+    "id": 473,
+    "name": "YRGLM Việt Nam",
+    "skills_raw": "Our Key Skills\nTeam Leader\nProject Manager\nManager\nJava\nReactJS\nPython",
+    "skills_normalized": "our key skills team leader project manager manager java react python"
+  },
+  {
+    "id": 474,
+    "name": "Zen8Labs",
+    "skills_raw": "iOS\nAndroid\nGolang\nJavaScript\nReactJS\nPHP",
+    "skills_normalized": "ios android go javascript react php"
+  },
+  {
+    "id": 475,
+    "name": "ZenS Company",
+    "skills_raw": "ReactJS\nLaravel\nRuby on Rails\nReact Native\nNodeJS\nBlockchain",
+    "skills_normalized": "react laravel ruby on rails react native node.js blockchain"
+  },
+  {
+    "id": 476,
+    "name": "Zodiac Software",
+    "skills_raw": "ReactJS\nHTML5\nCSS\nPHP\nPython\nJava\nReactJS\nHTML\nCSS\nPHP\nRestful API\nPython\nJava\nGit\nDocker\nDocker Compoase",
+    "skills_normalized": "react html5 css php python java react html css php restful api python java git docker docker compoase"
+  },
+  {
+    "id": 477,
+    "name": "Zuhlke Engineering Vietnam",
+    "skills_raw": "Software Engineering at Zühlke\nJava\nJavaScript\nAgile\nEnglish\nReactJS\nAngular\nSoftware development at Zühlke means diversity. Our projects range from creating the next-generation mobile banking app to medical-grade software in infusion pumps and connecting a construction machine with its vendor’s cloud system to enable new digital business cases. This is when our end-to-end expertise comes into its own. Our clients appreciate our versatility, as proven by the number of small-scale projects that evolve into long-term collaborations.",
+    "skills_normalized": "software engineering at zühlke java javascript agile english react angular software development at zühlke means diversity. our projects range from creating the next-generation mobile banking app to medical-grade software in infusion pumps and connecting a construction machine with its vendor’s cloud system to enable new digital business cases. this is when our end-to-end expertise comes into its own. our clients appreciate our versatility, as proven by the number of small-scale projects that evolve into long-term collaborations."
+  }
+]

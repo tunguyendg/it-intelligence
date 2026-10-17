@@ -4,6 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 
 from app.api.companies import router as companies_router
 from app.api.reviews import router as reviews_router
+from skill_search_api import router as skill_search_router
 
 app = FastAPI(
     title="IT Intelligence API",
@@ -27,6 +28,7 @@ app.add_middleware(
 # Đăng ký routers
 app.include_router(companies_router)
 app.include_router(reviews_router)
+app.include_router(skill_search_router)
 
 
 @app.get("/api/v1/health")
